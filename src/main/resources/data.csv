@@ -1,0 +1,3 @@
+skuId,storeId,cart,city,country,currency,price,productName,state,stocks,storeName
+SK000001,SGNTUC0001,www.ntuc.com,vivo city,Singapore,SGD,7,2 Ply Masks,harbour front,77,NTUC
+SK000001,SGGUARDIAN0001,www.guardian.com,bedok,Singapore,SGD,8,2 Ply Masks,east coast,52,Guardian

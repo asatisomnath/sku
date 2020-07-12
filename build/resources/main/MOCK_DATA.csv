@@ -1,0 +1,1001 @@
+skuId,storeId,cart,city,country,currency,price,productName,state,stocks,storeName
+CLW,NYSE,1DVAB8sDy6BMjgzWn1reu1M3mvxAhWwMKh,Birmingham,United States,Dollar,95,NASDAQ,Alabama,1,GEMP
+BHLB,NYSE,1P4eNprYK5aYbBedsXmDqdDvxenD7xk7gq,Spring,United States,Dollar,5,NYSE,Texas,2,PSA^T
+ORLY,NASDAQ,1Cq9H9PqVn3rXxVzx8oWjt4LQV4JME8ana,San Diego,United States,Dollar,61,NYSE,California,3,BLX
+RPRX,NASDAQ,1EJf8DdiK397XXGbNQaJuJM95gEa13veyZ,San Diego,United States,Dollar,99,NASDAQ,California,4,ISIG
+EUFN,NASDAQ,1NBmVyRDvhh3BrYYf3ny72pBzkRAZLvHK5,El Paso,United States,Dollar,97,NYSE,Texas,5,NNN
+ZYNE,NASDAQ,13gz56y1mDRSjXgUxDt1tc7XVktoD83R3g,Pensacola,United States,Dollar,30,NASDAQ,Florida,6,PEZ
+ECCB,NYSE,15rm1na6qt3Wj1brX8ChQWkYakvyRt9L76,Phoenix,United States,Dollar,31,NASDAQ,Arizona,7,ULBI
+NCIT,NASDAQ,17bRFwqumZH1cfz6eyX2ogwPZsaymrzrS8,Pinellas Park,United States,Dollar,68,NYSE,Florida,8,APO^A
+IGOV,NASDAQ,16x8gmYUTBKkUmgCDXBU87hC5wvfMWr52v,Stamford,United States,Dollar,7,NASDAQ,Connecticut,9,SGQI
+FMK,NASDAQ,195zJSzHT2SLo7pLXyVKLy7eCVdeMvqNnR,Minneapolis,United States,Dollar,5,NASDAQ,Minnesota,10,RDNT
+RBS^L,NYSE,1NRxktcZ2sZLtquUPcC1Cqz3aFzHbmNQG5,El Paso,United States,Dollar,97,NYSE,Texas,11,VSLR
+KPTI,NASDAQ,18ftsLXQSitXpsFfY5VkrDF8EznoWKAKsS,Wilmington,United States,Dollar,19,NYSE,Delaware,12,RHP
+TCMD,NASDAQ,13cYL1Tt5oYt6deNuZof39ntLKkEmVHRaY,New York City,United States,Dollar,48,NYSE,New York,13,NKE
+AT,NYSE,17aMe5bGhzmZDY8qg54jEWxAZV7ci3rKWW,Lansing,United States,Dollar,61,NASDAQ,Michigan,14,HURN
+SBNYW,NASDAQ,189azrEhgi55xXVHUrLCt26wT3Q1bQ8eBD,Los Angeles,United States,Dollar,57,NASDAQ,California,15,TWNKW
+RZA,NYSE,1ESE16XL4BYDSs7o5uNFo2NMreE5C7raFW,Shreveport,United States,Dollar,36,NASDAQ,Louisiana,16,VRSN
+WFC^L,NYSE,1h1nv1f5JwmZytEXNihsQpGoqSZyrQbDT,Houston,United States,Dollar,31,NASDAQ,Texas,17,ESRX
+BSFT,NASDAQ,1MHHscxaqQVtxi2dhB9pk51quveQcyvdPN,Omaha,United States,Dollar,86,NYSE,Nebraska,18,BAC^A
+RNR^E,NYSE,1Abo2LqSaEaBppBnP6MjnZDe7pa1NL5ctX,Minneapolis,United States,Dollar,81,NASDAQ,Minnesota,19,FWONK
+EBAY,NASDAQ,1NZ34dUZLQu4nj69pg3nvVTZfkBKdfkQLa,Sacramento,United States,Dollar,75,NYSE,California,20,CAE
+ULH,NASDAQ,1NnLPLNU2gsWr8db7FQ2Ky6H75R8NZqHES,Tampa,United States,Dollar,61,NYSE,Florida,21,GJH
+RFT,NYSE,1y3ZjHubC2z7xCzoVvMjLsihMnrqx5kMt,Peoria,United States,Dollar,28,NYSE,Illinois,22,BWXT
+PL^E,NYSE,1AW2zsjGf67emDjxEspSw4jSS235A7x8eH,Jacksonville,United States,Dollar,71,NYSE,Florida,23,HMY
+CDZI,NASDAQ,1F4L1LiNY8XvEWUMhGgdZYCKNXDJAskeQh,New York City,United States,Dollar,94,NASDAQ,New York,24,EDUC
+CPSS,NASDAQ,1JTDdx5KJVYaRNkQeGSv85s5Uu4kmusvQe,Augusta,United States,Dollar,84,NYSE,Georgia,25,TIME
+SYMX,NASDAQ,1HPQo7dxq4ZS1pzbxCSrWNUiDjw2cRYLKg,El Paso,United States,Dollar,4,NYSE,Texas,26,CARS
+NEE^K,NYSE,15wAdaMzJbcJrt5WLL8K9nsZoSBXvGZssT,Arlington,United States,Dollar,65,NYSE,Virginia,27,NEE^C
+PSL,NASDAQ,1DKVW6B546499FC8ZYN8N3LgjhzVTxcT2t,Bakersfield,United States,Dollar,10,NYSE,California,28,GBAB
+SKOR,NASDAQ,1MB5oW68AqVDqMo4MDqs3ih2zbMAfX3SaQ,Amarillo,United States,Dollar,76,NASDAQ,Texas,29,ASET
+ABC,NYSE,1D1x93J2hR5QNGLQQxg8u4eLsfytwW4QyS,Jackson,United States,Dollar,87,NASDAQ,Mississippi,30,GPIC
+KRMA,NASDAQ,1KoChJRabHqcDHFQpLmnm843UMmWDzJcAA,Shawnee Mission,United States,Dollar,68,NASDAQ,Kansas,31,NFLX
+AKBA,NASDAQ,128sNXLadPMbnMhaoNxYjkETew1UocmQHA,Stamford,United States,Dollar,13,NYSE,Connecticut,32,SA
+WES,NYSE,1NUSCYaRfRqpWEBqSkx6dzSseG8VDiekTg,Abilene,United States,Dollar,76,NASDAQ,Texas,33,SPI
+KPTI,NASDAQ,1CMGBV6ksxJK5b3KzZkMyhz6pp6WjTatHP,Portland,United States,Dollar,67,NASDAQ,Oregon,34,JTPY
+BGCP,NASDAQ,1NjCJTNfrHnz11hqxmoiFdksbwA3FjhPgA,Jamaica,United States,Dollar,41,NYSE,New York,35,WPM
+OFLX,NASDAQ,1EgZmeogURJ663XBqT3psyBL9G3DoPvqLQ,Houston,United States,Dollar,3,NASDAQ,Texas,36,ONTXW
+LGF.B,NYSE,1PgY6MzDrtaUWMK7DBmCv9yUMJPyu5YBja,Winston Salem,United States,Dollar,51,NASDAQ,North Carolina,37,CMRX
+LL,NYSE,13TiPmwrndqrG6Wr12AncSr2h38JGpDaaZ,Bozeman,United States,Dollar,23,NASDAQ,Montana,38,RXDX
+NVDA,NASDAQ,1KArTcKRPetkAiVkkrFCf4SCCvdzBzKJFg,Evansville,United States,Dollar,19,NYSE,Indiana,39,FPI
+QCLN,NASDAQ,12LJEZxi86cwxoCrjHsEgJmpYDjiqwzfjr,Jacksonville,United States,Dollar,18,NASDAQ,Florida,40,PBMD
+SYT,NYSE,15JTcoh1iiDJMzb81NbRq6DzHdUFsJCFum,Huntington,United States,Dollar,21,NYSE,West Virginia,41,KMF
+GPACU,NASDAQ,1BVeXSEa437dxmPofwK27JujqtJAoYmrWc,Atlanta,United States,Dollar,60,NASDAQ,Georgia,42,WYIG
+LPG,NYSE,1GMKJJVMC8fSbBs6D5Jf75TqQBQVs9ngN1,Long Beach,United States,Dollar,73,NASDAQ,California,43,MYRG
+OLED,NASDAQ,1JorWwDudAJauyPqNjAQUQiKxeWBZJ3gK,Lynn,United States,Dollar,1,NASDAQ,Massachusetts,44,PIRS
+UBSH,NASDAQ,1BdQu74Ks1bxbdRgAWeF8NuXWaq2dahgbo,Oakland,United States,Dollar,47,NYSE,California,45,CAJ
+CCS,NYSE,1YByk4AEsTTv1gDQK21CLw1RVUb9ofvzz,Largo,United States,Dollar,29,NASDAQ,Florida,46,ALDR
+COKE,NASDAQ,1Eaz4LcJzpQJux5tdpGjNWW7RYKsA8peYo,Scranton,United States,Dollar,52,NASDAQ,Pennsylvania,47,BCLI
+ENO,NYSE,16Voyctrqyvk6UxfHoMaHmehDkJDmiuMhN,Petaluma,United States,Dollar,31,NYSE,California,48,LEG
+NLY^D,NYSE,1Lng1cL8zW8CqcGntzKHEBCZb1QMyE96S4,Gastonia,United States,Dollar,45,NYSE,North Carolina,49,SU
+VSI,NYSE,15QRyryv48VTFY6WkhHautjFc1ncToFuei,Oklahoma City,United States,Dollar,100,NASDAQ,Oklahoma,50,RXDX
+ACM,NYSE,1ALt4eTFT2kGJbkzPb4CbvpDACrDK2Lne7,Redwood City,United States,Dollar,54,NYSE,California,51,DK
+GTYH,NASDAQ,1PVwNYDdgYrPYAKPU8HbRwi4cYGPmxNUNn,Wilmington,United States,Dollar,70,NASDAQ,Delaware,52,IMMR
+BGY,NYSE,1Hy3RkeC9dLG3zHk5FzhuxGkjTe2KUZ81u,San Antonio,United States,Dollar,78,NYSE,Texas,53,EGIF
+BRX,NYSE,1JNUnxZfrnFJqnLmbLCoAYu3kLUyvGFCM2,Sacramento,United States,Dollar,79,NASDAQ,California,54,FWONK
+FTS,NYSE,1C4HZQeiiXjnfCxUS6EY5vXKHRpedEjrRr,Alexandria,United States,Dollar,71,NASDAQ,Louisiana,55,JSYNW
+TOO,NYSE,1NXUGv3ePyULs3kWanU6SebNfzXtefSf7B,Camden,United States,Dollar,67,NYSE,New Jersey,56,NM
+VXUS,NASDAQ,1GWJ2maL7g4xz7i5jiwUu2Bddmd79wpuwz,Hartford,United States,Dollar,61,NASDAQ,Connecticut,57,SRCL
+Z,NASDAQ,15o1RbkBQEcRXSvkzokjGAhovEiJBN5rJG,Tulsa,United States,Dollar,9,NASDAQ,Oklahoma,58,QBAK
+NLSN,NYSE,12e2epWQih5sG5DuXD3HxSk9uiCFVi7QTQ,Metairie,United States,Dollar,60,NYSE,Louisiana,59,OFC
+NHLD,NASDAQ,14f88bmx7g1mP5r3AaHK3x1NDYYPoWFzae,Richmond,United States,Dollar,11,NASDAQ,Virginia,60,LVNTB
+WEX,NYSE,19v9RwPwmdN1TWXKWXjGJ8DcgfWn5nFZf5,Roanoke,United States,Dollar,46,NASDAQ,Virginia,61,HIIQ
+LGCYP,NASDAQ,18JHMKHGTYdsL4apLwbh7qsbmoputM3hgq,Denver,United States,Dollar,8,NASDAQ,Colorado,62,HRMNW
+LPI,NYSE,16WskaAKrH8Ey2g6MvUSMgTTKC2WRrGpJr,Harrisburg,United States,Dollar,19,NASDAQ,Pennsylvania,63,CTRV
+GOV,NASDAQ,1KnoXUxHj7d2VXcPooFhz6h8gkhBuD4eYE,Chicago,United States,Dollar,74,NASDAQ,Illinois,64,ADRU
+PNBK,NASDAQ,17DHLZqJggnxHs8H8mQEy4sGAxFgYqnmMG,Salt Lake City,United States,Dollar,74,NYSE,Utah,65,CIE
+CAL,NYSE,1HKRFMhw2sA6yffz82UJbbXJddtzPkF5q8,Asheville,United States,Dollar,57,NYSE,North Carolina,66,CIM^B
+EVF,NYSE,1KFCeVs4kMzvSsvaXEJ6idduzzPiLsDbzu,San Mateo,United States,Dollar,58,NYSE,California,67,HEP
+CPT,NYSE,19CnD5Z7YUYdq2y8V8qsHTYLJwvhFZBVcB,Houston,United States,Dollar,30,NYSE,Texas,68,NCS
+CTZ,NYSE,1HUvHm9yA6uV8K5UhocpLq8dKrUrrtW7ir,Oklahoma City,United States,Dollar,37,NYSE,Oklahoma,69,PEB^C
+HURC,NASDAQ,15FVLoTciLGdPTbGfqiTb8KcAP6veg898N,Jamaica,United States,Dollar,36,NYSE,New York,70,ATV
+WILC,NASDAQ,14owPqmjWPWmHJuwVRriEdUVEKvcqkFMXB,Naples,United States,Dollar,77,NASDAQ,Florida,71,SBLKL
+CIF,NYSE,1LQ46xPS5CuRPaxKjteC4Sd6ZW9zF8c7Sy,Des Moines,United States,Dollar,50,NASDAQ,Iowa,72,TRPX
+ORLY,NASDAQ,15gXKjC29nVZ23kT57vYP7MkVk851bykbU,Chico,United States,Dollar,13,NYSE,California,73,AHP
+CBX,NYSE,1BGxYbJ3tnsnvi3WRSmjQUYuYS3qVKetBa,Fresno,United States,Dollar,61,NYSE,California,74,GAB^J
+PLOW,NYSE,152fz3bxNFr3WGt9tWZ6XiUZn9Wqeg8MHv,Houston,United States,Dollar,65,NASDAQ,Texas,75,UPLD
+UTI,NYSE,14WjwA2HivmT5uPwfJogjdEhMzLNccPyyv,El Paso,United States,Dollar,37,NASDAQ,Texas,76,HUNTW
+SXT,NYSE,12GR7LnLe6kyuz86gDeUQ3Fyzzfq7t4MVb,Camden,United States,Dollar,16,NYSE,New Jersey,77,NCZ
+EMCF,NASDAQ,18hmePNobQz6Xyj8Q4vCSP4Fr4vKoRz3sY,Los Angeles,United States,Dollar,21,NYSE,California,78,RDN
+LPNT,NASDAQ,16J6tK4qRb23QnutJyZSnw9Ezg1PtdnkKc,New York City,United States,Dollar,69,NASDAQ,New York,79,PFM
+KRO,NYSE,16Ai5JFXvYPnPZyhxrveWTnQCYxU3Rxe2W,Gadsden,United States,Dollar,68,NYSE,Alabama,80,AGM^C
+NI,NYSE,12FkwWMN9EUxT5kW5rMNu9sAK2Pj2Df9rq,Appleton,United States,Dollar,1,NASDAQ,Wisconsin,81,HPJ
+CNA,NYSE,1D7CQyWWtVd3vp1B9GCGhQyzJKNUiEFTz3,Detroit,United States,Dollar,92,NYSE,Michigan,82,RST
+PPT,NYSE,1f91PtLUBoTnuu4ZBs3kZjYHKescbUXg4,Corpus Christi,United States,Dollar,38,NASDAQ,Texas,83,BWFG
+CLFD,NASDAQ,1MArsi5BvKNgaVix2DDb26ZZ5iNywEzAH,Columbus,United States,Dollar,25,NYSE,Ohio,84,STAG^C
+TEN,NYSE,1DkiqfstwPbHpwcekqfXM38XGemg92n5dR,Homestead,United States,Dollar,87,NYSE,Florida,85,ENR
+QQEW,NASDAQ,1DoDeqUEDXN7LiMjNm55JwpZbALQVqkEi9,Miami,United States,Dollar,27,NASDAQ,Florida,86,SSFN
+ECT,NYSE,1BdwUzZ1929BEskU9m62Ed2CnXuTu3kWNr,Washington,United States,Dollar,42,NYSE,District of Columbia,87,BKD
+FYC,NASDAQ,1JY4gesYV3GiMvShvxyrcGxCYBSNFE15ek,Portland,United States,Dollar,78,NASDAQ,Oregon,88,FMCIW
+AHL^D,NYSE,1CXrCARt2uvFZ1M3QXhY9un15HQQvdLbcy,Knoxville,United States,Dollar,62,NASDAQ,Tennessee,89,NXST
+PSA^E,NYSE,1KVHViWoNpyHTqKv8APq4SKsWzhiE4AhXu,Trenton,United States,Dollar,50,NYSE,New Jersey,90,YUMC
+VTWO,NASDAQ,12Jk2dBHBc7TQ9zkWG8TPQA3kKL5bMvqUt,Philadelphia,United States,Dollar,88,NASDAQ,Pennsylvania,91,FWRD
+NYNY,NASDAQ,1FAHt5dpL2M4ZUSsNqAne1C6Fp4fKksZyb,Philadelphia,United States,Dollar,92,NASDAQ,Pennsylvania,92,FLIC
+KTEC,NASDAQ,1KnDAa2FakCtQnSzbNqDTsutbrzhtT86PT,South Bend,United States,Dollar,17,NYSE,Indiana,93,USB^H
+INST,NYSE,1FayNVRmj4eMhsHYvusdafYETRc4Ru41JT,Springfield,United States,Dollar,75,NYSE,Illinois,94,PMX
+HTBX,NASDAQ,1Hzj3KAtEV8jh4NGYGnLDAeDXwFmuSxaCM,Clearwater,United States,Dollar,80,NYSE,Florida,95,STAR          
+EVA,NYSE,1JxWnzPYEJc7HzHhrebUpcEdxt23umkqKz,Bethesda,United States,Dollar,3,NASDAQ,Maryland,96,CMRX
+ARDC,NYSE,19eKuvDstYoC7K4dKuqn9CcwmUaPmMdAdE,Lansing,United States,Dollar,67,NYSE,Michigan,97,TCCB
+MAMS,NASDAQ,1Hfiq5V5wqu7PEvREjcNPTXvidZ1EPPErk,Omaha,United States,Dollar,65,NYSE,Nebraska,98,MLR
+MANU,NYSE,18nqNSvCf8RMvuT3hE7W39WGRvSAGK32Xn,Dallas,United States,Dollar,21,NASDAQ,Texas,99,PANL
+GJT,NYSE,1GuwZNUqd9yvVDA6xEJGtF1u6SUVhnmdzQ,Shreveport,United States,Dollar,61,NYSE,Louisiana,100,ALX
+AT,NYSE,13QEdqv8wT95TVMENeEJyoSpT8uFquixQE,Sacramento,United States,Dollar,100,NYSE,California,101,MFM
+MTFBW,NASDAQ,16kVBrmSA9MPV6yzbPdrmwRthPFoPioE86,Philadelphia,United States,Dollar,90,NYSE,Pennsylvania,102,KIM^I
+EXA,NASDAQ,1Fi76Q9HuwWuRUJGWuscPTYYBDpmXdsz9t,Philadelphia,United States,Dollar,59,NASDAQ,Pennsylvania,103,ESGU
+CUB,NYSE,1Frvc4x4QfAdtVyTJdPtj7RUmNdxy4Qu7d,Mobile,United States,Dollar,59,NASDAQ,Alabama,104,TRUP
+MARA,NASDAQ,1CAfb7w6cGSBdL4kN6nXXp3XiEt5ajsjfu,Dayton,United States,Dollar,65,NASDAQ,Ohio,105,OTIV
+PBT,NYSE,1FvW7xzZX7CzHmvFYvvz2yh2DA2hfvWNTV,Knoxville,United States,Dollar,100,NASDAQ,Tennessee,106,OPTT
+PRO,NYSE,1CTf93tLHpTUuqPGKQTNibQygdZjfoC8B4,Lincoln,United States,Dollar,46,NASDAQ,Nebraska,107,ASUR
+SSW,NYSE,1KF4unhgyBegoA4QyicDowDKP1Sg1S6oxv,Phoenix,United States,Dollar,11,NASDAQ,Arizona,108,ATOS
+IX,NYSE,1ANSdNrwMWuGZ8Wb1S55Tsm23dSPVemwhx,Richmond,United States,Dollar,40,NASDAQ,Virginia,109,ESRX
+E,NYSE,1MQrhkXNTJLyNhLb1PXQRzMdtvnVrPgXTx,Cleveland,United States,Dollar,77,NYSE,Ohio,110,COF^C
+CYAD,NASDAQ,1DUvpQdVEgpidVjFKUgSwtMp95sTHmoRdK,Littleton,United States,Dollar,75,NASDAQ,Colorado,111,CDTX
+AHC,NYSE,1JJZgrxupuf1s8JjjRxagUAPe3NYmywpyE,Jackson,United States,Dollar,67,NYSE,Mississippi,112,W
+ARES,NYSE,1MBzJH91piSyA6NcF4jupAnvVDyQAGGWVi,New York City,United States,Dollar,69,NASDAQ,New York,113,RAND
+PSB^W,NYSE,19ZcGeP5sCe7ybnYW3aanMFQFYypKYAgNm,Lynn,United States,Dollar,34,NYSE,Massachusetts,114,EMR
+ALNY,NASDAQ,14q6VAjVicBsPudYBycjgNyt75kzHDAKRu,Wilmington,United States,Dollar,66,NYSE,Delaware,115,AGCO
+DX^A,NYSE,1D2PDGbC2tUTrqb5Tu25xoqCntuSG3pGxv,Scottsdale,United States,Dollar,27,NASDAQ,Arizona,116,CENTA
+SWX,NYSE,1HX7jnP7uNFY7qtDFhq5u7XisS2eNBSG3h,Tulsa,United States,Dollar,72,NASDAQ,Oklahoma,117,TQQQ
+MKL,NYSE,18XgV6fcKzkRwvyZ4HKfSHgCa9AFZQEACx,Carson City,United States,Dollar,90,NASDAQ,Nevada,118,VCIT
+LMRKO,NASDAQ,1LBCAy6V8eHAcVHq1TqEFsdvhvihjt3He,Stockton,United States,Dollar,81,NYSE,California,119,SPXX
+IQI,NYSE,1BNA4Uaq8MxBJtNc3YfjGFEqJEeqTy2rcu,Atlanta,United States,Dollar,73,NASDAQ,Georgia,120,NTCT
+CLX,NYSE,1BVfAoY2anA9tUk8EXPzp8xS7RewZEqd3h,Orange,United States,Dollar,35,NYSE,California,121,BCEI
+BRT,NYSE,1Boz9Ru68DfYZ5d9Yr7hB2AyikmSDrXhZj,Pueblo,United States,Dollar,8,NYSE,Colorado,122,PNC^Q
+EYEGW,NASDAQ,1KrddjonNqf6ky6kfahQCcDtgB2VRkae69,Kansas City,United States,Dollar,53,NASDAQ,Missouri,123,FSC
+MMT,NYSE,1NyT6ZTBwD1zezdbiiPwg8q3M1Zb7PTwuE,Berkeley,United States,Dollar,20,NASDAQ,California,124,VBTX
+BRSS,NYSE,1Kz5ZxBqmELKs9Jw2UNYDh2wUBGN51Njhj,Clearwater,United States,Dollar,26,NASDAQ,Florida,125,OHRP
+RAD,NYSE,1LKvBdhaoRnAQnhjsT8SALsTr3wfjqz7eM,El Paso,United States,Dollar,99,NASDAQ,Texas,126,STX
+CLRBW,NASDAQ,14NGR2Bx52UTb6wXtq5b4hBx2URsF3bKgT,Birmingham,United States,Dollar,59,NASDAQ,Alabama,127,UBND
+EEP,NYSE,13Vfr2KjdSXqmETthvCJYA29LyW8vcMnBJ,Des Moines,United States,Dollar,21,NYSE,Iowa,128,SB^D
+FSBK,NASDAQ,1F95M4dwjfca5aSnWrbkgFH6j4fRa5AKHM,Oklahoma City,United States,Dollar,91,NYSE,Oklahoma,129,ADC
+FE,NYSE,1EgmwuUhEc2Y3a7TK8uL8ztdVYWcmxYdxs,Colorado Springs,United States,Dollar,41,NASDAQ,Colorado,130,SSTI
+CRTO,NASDAQ,139Z2dpGkscekHubaVHfY7MrxmwyXtS2qM,Albany,United States,Dollar,96,NASDAQ,New York,131,JAGX
+EZPW,NASDAQ,18JT6twoz3s13NvhVctJqeC8Aq1RfEKWDs,Miami,United States,Dollar,66,NYSE,Florida,132,TI
+NVDA,NASDAQ,1BB51HcB3R8Yk5hMQrBVCMReJd8eG8JVcb,El Paso,United States,Dollar,35,NYSE,Texas,133,SJR
+LBTYK,NASDAQ,14ApjpTFGrnaa1AZTR2RvnNVGsSgsz2oNK,Fullerton,United States,Dollar,44,NASDAQ,California,134,PTI
+MSGN,NYSE,1FxY6PurpVJoL55oXb7izKDjRNZoGcvUrq,Shreveport,United States,Dollar,85,NASDAQ,Louisiana,135,OKSB
+PSCI,NASDAQ,1FGRFwC7gB9SVUhq5QCCgUjLpEdQxRdTX3,Washington,United States,Dollar,99,NASDAQ,District of Columbia,136,AGNCP
+NDSN,NASDAQ,1PvzADejurYpVGUee42xoGpU1qxej1ALyc,Kansas City,United States,Dollar,98,NASDAQ,Missouri,137,CRAY
+DSE,NYSE,16NudZikDpxr1Z17CwqSVAZrywwbWPGcyG,Omaha,United States,Dollar,86,NYSE,Nebraska,138,PRE^I
+PAACW,NASDAQ,1KoEQAeBfCGuDcyAkMojYUpE3QtbkEgcLf,Montgomery,United States,Dollar,87,NYSE,Alabama,139,MUE
+DLBL,NASDAQ,18HwUfryP9g1ozMCvJJWbsQqRyyraMrzhF,San Jose,United States,Dollar,23,NYSE,California,140,APH
+UEPS,NASDAQ,1Mc1NYKtjf2YaAG3wHguC4qgXZTHrsyRGR,Houston,United States,Dollar,76,NYSE,Texas,141,CXO
+FFBCW,NASDAQ,1MSUK2v3iGcFgj615Ny4AAQk3McxM4Bw4v,Raleigh,United States,Dollar,76,NYSE,North Carolina,142,DY
+MAR,NASDAQ,14euwGyawQgzyU6p97QoJxm5sD89pPQgZ9,Tulsa,United States,Dollar,30,NASDAQ,Oklahoma,143,GPP
+SPAN,NASDAQ,1PNMCJjhpqc1WvJ2ei8HzeX2e9ZpBiGee1,Santa Ana,United States,Dollar,7,NASDAQ,California,144,OMCL
+IMAX,NYSE,17nGCKA4a3JbdnwGeaXdcHkWV3e1uWDcrc,Kansas City,United States,Dollar,97,NASDAQ,Kansas,145,HUBG
+ACIA,NASDAQ,14zDcfVXLXA6wJfyZpSCHxbGfevsyzNF7f,Naples,United States,Dollar,58,NASDAQ,Florida,146,RDWR
+PSX,NYSE,13qWeiJM5BzFQKudxVjUn24n2kJuychXNH,Oklahoma City,United States,Dollar,100,NYSE,Oklahoma,147,OMAA
+RLGY,NYSE,1GdmTk6v3mKq9NMdnXLUHNk3p9TsWAVFhL,Austin,United States,Dollar,45,NYSE,Texas,148,CUBE
+GCBC,NASDAQ,172VLuWzVYuuZpAyMdBTqQFRxN36Nta62x,New Orleans,United States,Dollar,66,NASDAQ,Louisiana,149,UBOH
+BKEP,NASDAQ,1ENutPNA86aVcyvNHHXPNuBed99jHnQeCr,Wichita,United States,Dollar,42,NYSE,Kansas,150,TSS
+ABTL,NASDAQ,14r7FEyrgbMWh1yutJVrpjxSAaEsVe4SCc,Chicago,United States,Dollar,28,NYSE,Illinois,151,AHP^B
+SFS,NYSE,1M5QfKMCJVezJe56iUJ5Hv9DQSsvaJVYcv,Wilmington,United States,Dollar,96,NYSE,Delaware,152,EBR
+UIS,NYSE,1KjaaNAoA7znZz3nYTfghSqVHHHNTUpvTL,Mobile,United States,Dollar,52,NYSE,Alabama,153,TGH
+CERU,NASDAQ,1EBy6i1sbUYzwBN3M2ZMWMqiNHAcGUMJov,Largo,United States,Dollar,48,NYSE,Florida,154,CTB
+RUTH,NASDAQ,1E1kHFEorGemdWiw4zVMQB7SsfUcCmmte7,Honolulu,United States,Dollar,25,NYSE,Hawaii,155,GBX
+VLY.WS,NYSE,1KwtApxh3BCfkNofzV2MkHnJepV2zb2pmh,Saint Louis,United States,Dollar,88,NASDAQ,Missouri,156,TAX
+DHR,NYSE,1A79FjHKdSux6aHvLzNfekVJM7Awn8n8mE,Albuquerque,United States,Dollar,59,NYSE,New Mexico,157,MTB
+VALU,NASDAQ,16CHqhN2inJ2LJsV97hTj4Z976PaiYAraE,Denver,United States,Dollar,35,NASDAQ,Colorado,158,CECO
+IVR^A,NYSE,1DzcPwYatBnEvLjY8gvoxFPMHdcwdmrMJj,Reno,United States,Dollar,26,NASDAQ,Nevada,159,GTYHW
+ENG,NASDAQ,1Gukvjyuiii66ZqfLNRfC4xFHFLGmGHRej,El Paso,United States,Dollar,66,NASDAQ,Texas,160,EXTR
+SNFCA,NASDAQ,1NbZ5Ddvj9xLFWnWrxJZ8GigDbD43FUSgi,Erie,United States,Dollar,17,NASDAQ,Pennsylvania,161,PIE
+AQB,NASDAQ,1E5Y7c8AqTdn4kv2YtNotF5SzqDxyi4vnJ,Atlanta,United States,Dollar,77,NASDAQ,Georgia,162,LARK
+PSA^Y,NYSE,1Kvivvv5t4nYm1Ukr1GMvcffPfHcjCgX4R,Birmingham,United States,Dollar,77,NYSE,Alabama,163,CBI
+ETE,NYSE,1MrAdUmt6pCKMBfTj9K5mz6NrcEFwpfdVQ,Mc Keesport,United States,Dollar,65,NYSE,Pennsylvania,164,DTF
+XONE,NASDAQ,17Uvri7ZSzxvW6ANTX8yH4KBZnVXLKXdV3,Los Angeles,United States,Dollar,67,NYSE,California,165,KKR^B
+NSL,NYSE,1GXPpdWS4QvXCX39eDkVeQckZXBFzJBYdZ,Brooklyn,United States,Dollar,13,NASDAQ,New York,166,MTBCP
+HOS,NYSE,13Egf5kKGYC8xLCjmvqdpFXUgGZrMNp763,Albuquerque,United States,Dollar,85,NASDAQ,New Mexico,167,ONVO
+CPA,NYSE,1LPRU6FUfLoteNeUbuLsb5mfuWGoV2pLen,Detroit,United States,Dollar,12,NYSE,Michigan,168,DSXN
+LCNB,NASDAQ,1HNneZuRwPjLejvRtYntJNShk7qGKxFySb,Huntington,United States,Dollar,71,NYSE,West Virginia,169,WST
+NS^A,NYSE,14TJWWfhb3u8ANGhhpMZZaVBNmve3Cnc5N,Huntington,United States,Dollar,66,NASDAQ,West Virginia,170,FNTE
+AMBA,NASDAQ,16P7F3PxoCBs5qGhS3ueRfGV41biXfSt3m,Littleton,United States,Dollar,42,NYSE,Colorado,171,BDJ
+CXDC,NASDAQ,16XdwCqKFZYavVcid73nXqqX6BR3cz9zf7,Nashville,United States,Dollar,92,NASDAQ,Tennessee,172,SOHOB
+SYNA,NASDAQ,1KLYbLAz4Gw1zmQXNX3F6miLqzq2dXFxyx,Reading,United States,Dollar,71,NYSE,Pennsylvania,173,CFG
+ISG,NYSE,16Tnz9Ekb9912wzqtqFapJsfcRiv8iupd4,Crawfordsville,United States,Dollar,95,NYSE,Indiana,174,TRNO
+COP,NYSE,1BXASvcw1fVq3PAJ2vzdr6vMD3qzj1HvHP,Wichita,United States,Dollar,30,NASDAQ,Kansas,175,AOBC
+RVNC,NASDAQ,17ipFjuFM4ZxQFGk5PDTtozwd2UhF4uUfW,Port Washington,United States,Dollar,75,NYSE,New York,176,DDF
+THQ,NYSE,1FfACYbR7DnXmwMiBX6amDN7NuvuDsidLx,San Jose,United States,Dollar,16,NASDAQ,California,177,SRUNW
+CMRX,NASDAQ,1DGwQMDYpwfdjWiiXdCcsXuYvTMhXfURFD,Greensboro,United States,Dollar,30,NYSE,North Carolina,178,TV
+LBRDK,NASDAQ,18VCiHDAKytnsnwciF8mgwZu4AoA4NEGFr,Louisville,United States,Dollar,57,NYSE,Kentucky,179,BOOT
+TCRX,NYSE,18uiigPKZV7A4myBye8v9oryzbn93KdcjB,Erie,United States,Dollar,92,NYSE,Pennsylvania,180,ENBL
+DHR,NYSE,12Q6PhLSG9Qto9F5E3sUwbBV7vHDi4jSN8,Honolulu,United States,Dollar,16,NYSE,Hawaii,181,VBF
+RS,NYSE,1McRsLrZ3v63n3DgqeX1em8f2h8tLrvQLo,El Paso,United States,Dollar,11,NASDAQ,Texas,182,CRVS
+UONE,NASDAQ,1K6wB6XnZCEnmTe3zmmyajEXve8RDxPz3K,San Francisco,United States,Dollar,94,NYSE,California,183,AMID
+PMM,NYSE,1AxxoAfjiaZFBaBNjyfXm3CmaM48bEMoKz,Honolulu,United States,Dollar,15,NASDAQ,Hawaii,184,IGOV
+NE,NYSE,1N6GrnKRNjs4PMhuDsVVMBa4U9uiT3uMVf,Kansas City,United States,Dollar,30,NASDAQ,Kansas,185,UONE
+WINA,NASDAQ,1PcyiiZZrLHLq7XB2XqrmtBBtPuGGYqcv8,Lubbock,United States,Dollar,28,NYSE,Texas,186,FII
+EAB,NYSE,1LhHXRR3iKztrrzBdpaHSmmyvz61tDsb9c,Austin,United States,Dollar,89,NASDAQ,Texas,187,PSTB
+FLO,NYSE,1JAJgZEay75FWktoxuhasrnoKAWtmjo1dt,San Angelo,United States,Dollar,38,NYSE,Texas,188,SRF
+COF^F,NYSE,19p7D8LjjRyu2HWhXSFkV88Ur5z222fYJa,Worcester,United States,Dollar,74,NYSE,Massachusetts,189,DATA
+NFLX,NASDAQ,1Q1tAsnktHug1kewttpJ1sE8roG931pU2s,Monticello,United States,Dollar,58,NYSE,Minnesota,190,WSR
+USLV,NASDAQ,1FuBYndvAsSMr9rrCuRJ8zQCBStfFMSq2u,Syracuse,United States,Dollar,64,NYSE,New York,191,ARE^D
+EDD,NYSE,129nKPXqgbpeMyBj1jsTv1Lk4cKrWTipdv,San Diego,United States,Dollar,42,NASDAQ,California,192,FEM
+IVENC,NASDAQ,1HTtipsnm6VxvVU8tvQk37U1wAZRZeGFW2,Virginia Beach,United States,Dollar,89,NYSE,Virginia,193,ATEN
+BRID,NASDAQ,1BxUsimDNm4u6tWzMG4fUKnFmbXSoik35K,Lubbock,United States,Dollar,2,NASDAQ,Texas,194,IDXX
+ANDAR,NASDAQ,19m5Gbc6YidA4wHQ39PuLswCb7cPpjhNv7,Dallas,United States,Dollar,95,NASDAQ,Texas,195,PVAC
+DLB,NYSE,15hRandY8Fb7yN9mpcsHEdC3LyTkocdjHw,Farmington,United States,Dollar,20,NYSE,Michigan,196,ENZ
+UAL,NYSE,1Q3ccbKeRoVjY7StLs1KH6edL3NkX4xnZy,Evansville,United States,Dollar,12,NYSE,Indiana,197,COO
+MH^C,NYSE,1bKbNPSUUoUbWEBmWEZA7mmW4QKofwxnt,Oklahoma City,United States,Dollar,5,NYSE,Oklahoma,198,KTN
+CETX,NASDAQ,1JaHxThqMABs43kHSoB7siWLBij4hrB6fq,Worcester,United States,Dollar,66,NASDAQ,Massachusetts,199,ON
+CNNX,NYSE,1Ms3kZ2bYwXHdYmER831A29rozwmLPbg8Z,Baton Rouge,United States,Dollar,25,NASDAQ,Louisiana,200,INBKL
+DHX,NYSE,1Jys7AW7Tsjtuq8gRVzUjspRM3wwhuxmMw,Honolulu,United States,Dollar,15,NYSE,Hawaii,201,SMP
+BGG,NYSE,1M4rjhsD3eNE6uy8Q7ax7dxT2EiBQQQDyF,Jacksonville,United States,Dollar,95,NYSE,Florida,202,EGF
+FIX,NYSE,1HcGLB9jdpkm6X2yywB1FKdyPgCvktHRWS,El Paso,United States,Dollar,1,NYSE,Texas,203,VR^A
+VTWV,NASDAQ,197nrKcRrKhTDYSZJ8zBx5wUEdfCkgQn4m,Miami,United States,Dollar,77,NASDAQ,Florida,204,RYAAY
+EGP,NYSE,1MTRwWwDDu25memmLypsndxX1qZ7LXeBPw,Bowie,United States,Dollar,20,NASDAQ,Maryland,205,AVAV
+HZNP,NASDAQ,1JZS4At6AVAYMT3UtRiafyAcU4MDpoQePu,Sacramento,United States,Dollar,27,NASDAQ,California,206,TLND
+SPLP,NYSE,176yxkEhvUf613eGvLqa5MNQ4HueLnbUDK,Hollywood,United States,Dollar,29,NYSE,Florida,207,ZX
+YORW,NASDAQ,1K5niTDTLtXqQDfeBw2FKWPKreVcxobtBy,Pasadena,United States,Dollar,16,NYSE,California,208,LDL
+NADL,NYSE,1KEjuENeH5WJGLKT8YL2xfYagsDaSNexpY,Lubbock,United States,Dollar,82,NASDAQ,Texas,209,ALOT
+CHSP^A.CL,NYSE,1L8aLGRmWF8f8SLxh12STf34Ekau1tjhXb,Paterson,United States,Dollar,81,NASDAQ,New Jersey,210,EBIX
+COHR,NASDAQ,1LFcNGynTHwhATFX4S464bZWsTn49R1Yx5,Birmingham,United States,Dollar,55,NASDAQ,Alabama,211,PERY
+TUES,NASDAQ,168tMdfqNPEbwH9UQhCSsu4vUZ6Rk8LqtB,Montgomery,United States,Dollar,44,NASDAQ,Alabama,212,UFPT
+MYD,NYSE,1PEA2yastuR5CmRP9a2JF68wJWyjDD9Ts9,Houston,United States,Dollar,63,NYSE,Texas,213,FF
+PCSB,NASDAQ,15nHUwbGnfrf1Ce6Z3hd5jv4ny29fhwvm1,Amarillo,United States,Dollar,93,NYSE,Texas,214,POT
+ADXSW,NASDAQ,14EvT7Tu1vJrgiy4A5VL2Vb7UancwbqsyY,Miami,United States,Dollar,19,NASDAQ,Florida,215,KERX
+DCT,NYSE,1LZQDZyuW6nTzvmK7Fqz2Qk7AzjCusQbd2,Durham,United States,Dollar,60,NASDAQ,North Carolina,216,CRNT
+PGC,NASDAQ,1CYR5PQgG1ypTX8XQqDXLV2DigVht9UyCg,Wilmington,United States,Dollar,78,NASDAQ,Delaware,217,FUEL
+PYN,NYSE,1HSxTSVuqg3ii5aAyXdRR8pg4QbTu93c4S,Minneapolis,United States,Dollar,58,NYSE,Minnesota,218,MIC
+EPR^C,NYSE,1DN2ZGHmCvPnSLjwfex5Ei8sKrxNCotcFi,Toledo,United States,Dollar,39,NASDAQ,Ohio,219,INFR
+TRTN,NYSE,1FxumLL4XsYXiTPRGkVHveAocn2R68kCzu,Rochester,United States,Dollar,84,NYSE,New York,220,VNO^I
+HCN,NYSE,16m6VTAug9TTRbepvBwcCNne9YG2HgSqVs,Vero Beach,United States,Dollar,46,NASDAQ,Florida,221,OHAI
+DFT,NYSE,14X8Z4pvMXJHnTJ6PqdaJ7NccKxMxvNvUb,Spring,United States,Dollar,85,NYSE,Texas,222,DSM
+NTL,NYSE,1MPf16DmJHXdfvARcvCDc7PSRuPhbYsAv8,Austin,United States,Dollar,60,NASDAQ,Texas,223,KBWY
+AB,NYSE,1Q7rmHWi9mmHyjkUDQz8Lf4WysBVCg9phz,Corpus Christi,United States,Dollar,99,NYSE,Texas,224,GNC
+BLBD,NASDAQ,14DqRJqtkqE1fFTX7itAw16bWiDdqFJgB3,Saint Louis,United States,Dollar,52,NYSE,Missouri,225,HCN
+IMI,NASDAQ,1Jd7ncgJb4JF5BHtFaYqTBvnoDojLLYp97,Ocala,United States,Dollar,15,NYSE,Florida,226,XPO
+DGICB,NASDAQ,183eAKJ6Qajd5kpLBfdTTs1NFkBuC8r9Uc,Albuquerque,United States,Dollar,46,NASDAQ,New Mexico,227,AVGO
+FYC,NASDAQ,1Gwk6G8tnh5eLMbqZoGWutoKWDgbviqcT3,Sacramento,United States,Dollar,32,NYSE,California,228,AVK
+BPI,NYSE,1QG2kD6TBnFGDnnCU4SubDz2UYiv7Tzmx2,Lehigh Acres,United States,Dollar,98,NYSE,Florida,229,GD
+WAIR,NYSE,1CCJUTX8fNL8FyAztTtCZDHU2nKaFiWxia,Pueblo,United States,Dollar,80,NASDAQ,Colorado,230,AKER
+WLB,NASDAQ,16ky8mpCPLYx21nhwnAj5wjPc8Q7rbhmsN,Birmingham,United States,Dollar,24,NYSE,Alabama,231,NOC
+PSA^W,NYSE,19KbTi7hPGtJ1TAD3ZZj5aBbNudxzCCzFr,Shawnee Mission,United States,Dollar,84,NYSE,Kansas,232,LGF.B
+MDSO,NASDAQ,1ELBi4boT5hF54spY3pAwvvEeNtjwmn3zx,San Jose,United States,Dollar,36,NYSE,California,233,MXL
+SFM,NASDAQ,1PPNhgrD8PjhZktvroxktaNPG3WBLgge5k,Knoxville,United States,Dollar,27,NYSE,Tennessee,234,CPB
+CUBI,NYSE,1875vxVyNSYR1YSKAVyPFrRtwZPvFwj1NQ,Sioux Falls,United States,Dollar,80,NYSE,South Dakota,235,ANH^A
+AVY,NYSE,1DTAFQLku53zvsqdq1ksWMGHJan2D59Gqx,Las Vegas,United States,Dollar,67,NASDAQ,Nevada,236,PHIIK
+HPQ,NYSE,1H5oLH2nvKqxJ7SJo33i2HyHZ4n2jB3cqV,Pasadena,United States,Dollar,76,NYSE,California,237,ECCZ
+NGHCN,NASDAQ,17EoGpAhx3LWJMfNAigiXYX6E4RbfHSMtE,Washington,United States,Dollar,87,NYSE,District of Columbia,238,NOAH
+ZTR,NYSE,19j3UTSKxedq1TgXNguEBu2dgAXK4Xx73Z,Washington,United States,Dollar,47,NYSE,District of Columbia,239,MZF
+LANC,NASDAQ,17Zigiz8fpjbUX99XvpopUhWNW3juig7Z8,Arvada,United States,Dollar,72,NASDAQ,Colorado,240,AAPC
+ADHD,NASDAQ,16KcLr3iKUu3jCpRZqo4erwXjKW4Fh3nSa,Portland,United States,Dollar,51,NYSE,Oregon,241,GFI
+STN,NYSE,1MVr4qS4tctZPXbmmrhP3fSxCnpgaNz5WE,Valdosta,United States,Dollar,39,NYSE,Georgia,242,BAK
+YPF,NYSE,13Gin7Gk3BuA1EWj1hNKztKz1j2wML5uQW,Tucson,United States,Dollar,13,NASDAQ,Arizona,243,PPHM
+SCG,NYSE,19DNeiztJgkb9WNdLDYvRMRbrsL7pHs3Qg,Sioux Falls,United States,Dollar,3,NASDAQ,South Dakota,244,XOMA
+OPGN,NASDAQ,17bVECcV27yoSy7E9Rrg81xQ5noS8rWY95,Rochester,United States,Dollar,15,NASDAQ,New York,245,MDLZ
+FTHI,NASDAQ,1Jk8BHVBEgyCnuGyL71MrMs5YopMRmoPXb,Huntington,United States,Dollar,75,NASDAQ,West Virginia,246,UVSP
+AMOV,NYSE,1Pg7MBnVjVFT8rte5ASqGZ2e5WwTMQAWT8,Wilmington,United States,Dollar,41,NYSE,Delaware,247,NRP
+MOXC,NASDAQ,19nNCL86yQUQKejnitwvr13px2XBhUhC4i,Nashville,United States,Dollar,34,NYSE,Tennessee,248,POST
+AFMD,NASDAQ,1Ea6P7LF9sykdq8QyYRRJrj6v3kTPuvCVe,El Paso,United States,Dollar,71,NASDAQ,Texas,249,KTOVW
+MXIM,NASDAQ,1QDmsALbWqNKbgposyNMgT4ycsaGcVanej,Saint Paul,United States,Dollar,18,NYSE,Minnesota,250,JELD
+CHCI,NASDAQ,13sjmdWaa9TSq33CuJQSkY1F4kkFrgYpAw,Alexandria,United States,Dollar,94,NASDAQ,Virginia,251,PCAR
+TRN,NYSE,1Ewu4U2on4cQzJkAxVgrrVtayMxdEmQUjs,Memphis,United States,Dollar,3,NASDAQ,Tennessee,252,QPACW
+SPNC,NASDAQ,1CRbYwikMpqSb3j1WMeV11pvvmNkBa2bsw,Columbia,United States,Dollar,92,NASDAQ,South Carolina,253,ACRS
+TECD,NASDAQ,1GvJckuSSFqctS9mc2XTsWkxtfPjq9JT83,Scranton,United States,Dollar,17,NASDAQ,Pennsylvania,254,HBHC
+BGE^B,NYSE,16SXMCZQHniehrmQknmnFRxaboNkdVxTuX,Sacramento,United States,Dollar,52,NASDAQ,California,255,TGLS
+GTIM,NASDAQ,16Q8harUxEBtVeWiAR6wkc9AW1HjtH4XrJ,Honolulu,United States,Dollar,6,NYSE,Hawaii,256,KED
+PZC,NYSE,1Jo4tfTaQTLbXwXKschBpYxWmy3a4LqzL5,Chicago,United States,Dollar,77,NASDAQ,Illinois,257,GECC
+LILAK,NASDAQ,1LNFQ5F6mZCDzivDHdSFVWReG3zFuthtwZ,Milwaukee,United States,Dollar,49,NYSE,Wisconsin,258,LMHA
+CALX,NYSE,1LMKNGSvN9wAuxgUXqnPiLrokKfYFPwBjm,Peoria,United States,Dollar,47,NASDAQ,Illinois,259,PTNR
+AMBCW,NASDAQ,1Nx48eWSwad7Kz4uxGNLTFVuaV2rFuKkaU,Sacramento,United States,Dollar,36,NYSE,California,260,BWA
+USEG,NASDAQ,1PdJsR36FTa5eseWrQ4se5y3gCgoGmeGRC,Gulfport,United States,Dollar,57,NASDAQ,Mississippi,261,XPLR
+TSN,NYSE,1DxriEdgM6VM1tTNhexF36TWjPRVCwxXZS,Las Vegas,United States,Dollar,50,NYSE,Nevada,262,USG
+CDI,NYSE,16H4fAw7KVuBfAaG4MEq2rgrSpMUVG877S,Scottsdale,United States,Dollar,28,NYSE,Arizona,263,MNE
+ELGX,NASDAQ,1KZeuYu5ospFuBCBWZcJcTFwS6ohfCffgU,Huntington Beach,United States,Dollar,87,NASDAQ,California,264,NXTM
+BCC,NYSE,18gxswGqRP5WWx3vrncwinGgo95W5pZb4f,Chicago,United States,Dollar,36,NYSE,Illinois,265,MPW
+LKFN,NASDAQ,1Lus2UuScoGvDKiPPNcYcQWuaYxm8GHitZ,Syracuse,United States,Dollar,77,NASDAQ,New York,266,BPTH
+GLOB,NYSE,1FD6oiBwfMwKjFZUMvR3nY2RmeCu4SNyKS,Philadelphia,United States,Dollar,1,NYSE,Pennsylvania,267,KEY^I
+GKOS,NYSE,1N3ekaVz8xriJKjqcZHFyCXWZCLauaF2zG,Albany,United States,Dollar,39,NYSE,New York,268,NYCB^U
+NS^B,NYSE,1G8Sh3kfMpLLF8r37MzczW2ZCeR17T9WFV,Jamaica,United States,Dollar,66,NASDAQ,New York,269,UTMD
+HUN,NYSE,1EEydeBTDhqJiyNkj3Bmx2Uev645NrxMxg,New York City,United States,Dollar,89,NYSE,New York,270,AZUL
+FNTEW,NASDAQ,14YAC1zw1dYLVytrBSTrECpv2sJkiVyUsY,Houston,United States,Dollar,59,NASDAQ,Texas,271,EXPE
+PEB,NYSE,1JCDE5Do7qeZmp8ruBT28BoDnRb9FjCdHV,Sacramento,United States,Dollar,76,NYSE,California,272,PSA^X
+WRB^D,NYSE,1PRYF1b6w4e3qUxAN2KPnh5NTsscvZ9srM,Santa Barbara,United States,Dollar,18,NYSE,California,273,MOG.A
+PAAS,NASDAQ,1BzoreCQ7TM4YSg45tcgWb4banEi6232mk,Kansas City,United States,Dollar,54,NASDAQ,Missouri,274,ANDAU
+OCFC,NASDAQ,1H76nUJNPnsLCWSGmnpfQNaw3PtACMXXae,York,United States,Dollar,60,NASDAQ,Pennsylvania,275,HUNT
+AMH^C,NYSE,1BVREEEFE54iy7vY1GnnYKeyxRucfyTett,Los Angeles,United States,Dollar,52,NYSE,California,276,TGH
+WAGE,NYSE,162AQJUkLiqKQJf3DEfSuZoNCcpV3etVsX,Akron,United States,Dollar,71,NYSE,Ohio,277,JFR
+PGNX,NASDAQ,1LsBXwoZiDJn5baR8yD7BBc9Een7S83eHH,Charleston,United States,Dollar,93,NASDAQ,West Virginia,278,LBTYB
+NLNK,NASDAQ,1FQDpwXYgR6tN3tK1Tf4pqUVi6nKLpbnhz,El Paso,United States,Dollar,49,NYSE,Texas,279,HLT
+DPZ,NYSE,1MT1BkuKj1DaaWRzmFtu1Zh3MZtXcnEeNn,Huntington,United States,Dollar,23,NYSE,West Virginia,280,SHO^F
+BV,NASDAQ,1DK14qxLZ52qQCb1pVpB2BFiNPWSNyAFYj,Anaheim,United States,Dollar,87,NASDAQ,California,281,FTXN
+SSW^G,NYSE,1GXYsS7PAcbWQJqyDGzeDKrUBvXpYueJKP,Madison,United States,Dollar,31,NYSE,Wisconsin,282,ENH^C
+LTEA,NASDAQ,1GjS2PFjWCazK7K35yd8K8ecTxBZkK9PJs,Orlando,United States,Dollar,60,NYSE,Florida,283,GDDY
+AMC,NYSE,1DDM2PDx3ZZsWL11Rfuvq9ScsoaR3MUpyv,Tallahassee,United States,Dollar,23,NASDAQ,Florida,284,HMTV
+EPAM,NYSE,1MWAN8bA1e9pyBmVRMriqxPVtJuUTLmhQK,Suffolk,United States,Dollar,46,NASDAQ,Virginia,285,GSUM
+OIIM,NASDAQ,1PKthCDwnR9FrNH7Hn2i4Vi7StufQsxtWi,Washington,United States,Dollar,99,NYSE,District of Columbia,286,CNI
+VLY.WS,NYSE,1Lkn6sPANqnxsq2sMG5v14se7mbtE9PAJG,New Haven,United States,Dollar,16,NASDAQ,Connecticut,287,SGLB
+WCG,NYSE,14FuWngv3JcxdY65NftwAX9VC8qBQCmCCP,Charleston,United States,Dollar,25,NASDAQ,West Virginia,288,SAMG
+DEA,NYSE,1NYLSLcUH57zmPRe97oxsKtg3BwV9otzU3,Omaha,United States,Dollar,60,NYSE,Nebraska,289,VLY^A
+MTD,NYSE,1MSGSisht3wqk7mjX2nhhnuknHJnceao9j,Warren,United States,Dollar,59,NYSE,Ohio,290,NWHM
+TEAR,NASDAQ,1F7LHPsfYRPcn8foLa1X1GUA2bLoZbaqhG,Charlotte,United States,Dollar,10,NYSE,North Carolina,291,CPL
+ENO,NYSE,14yjmnzZuUh8DnKz3Mtfj9JgPcyh4RmooU,El Paso,United States,Dollar,3,NYSE,Texas,292,IBN
+SREV,NASDAQ,1P3imZt2AzH9bdYXMCeBrefT1JjXCDzgfQ,Memphis,United States,Dollar,48,NASDAQ,Tennessee,293,EYEGW
+DEL,NYSE,15QB3JkU764digHKKrrpt1ar6Y5EXS3L4p,San Diego,United States,Dollar,53,NYSE,California,294,GZT
+FRC^E,NYSE,16d4L1usWGwFqhrQAB9wjqoBhtTGSUyx8X,Brooklyn,United States,Dollar,52,NYSE,New York,295,CARS
+NOA,NYSE,1P1J1aRyWjGdkUYh7VKcc74XLCosmNqvem,Detroit,United States,Dollar,91,NASDAQ,Michigan,296,GILD
+HNNA,NASDAQ,1HUz8bEnbjujZXzSDyXtibH9wKVLcseKHa,Long Beach,United States,Dollar,91,NYSE,California,297,CRH
+IX,NYSE,16zWfg44XPaokjKpeG5tJ9NPhsTZC9TC4u,Norcross,United States,Dollar,90,NASDAQ,Georgia,298,AEGN
+IMAX,NYSE,1MAD95GmBfdnJJrH5Xpk66uof3Ckosk5za,Portland,United States,Dollar,100,NYSE,Oregon,299,IVR^B
+PNNT,NASDAQ,1CRNCR6NcQxsGsQzjnMqQ5spE2T66PfbNu,Hialeah,United States,Dollar,93,NASDAQ,Florida,300,NFEC
+ESGD,NASDAQ,1Pp2c1JwiuR19CPwWiGgPM8SC4rnT5KCAU,San Bernardino,United States,Dollar,70,NYSE,California,301,CCI
+CLIR,NASDAQ,1Dg7c8ZZakkNkszN84ZXYquBR4oqY9433U,Charleston,United States,Dollar,15,NYSE,West Virginia,302,SAN
+GLBL,NASDAQ,139x29LTL83Pm1oXxUnQ7i4U1owwaW6XjD,Bloomington,United States,Dollar,84,NASDAQ,Illinois,303,TBPH
+DLR^I,NYSE,1JeNLgN8Pxet9iGKZVKq8Vh5bji1r452W9,Lansing,United States,Dollar,8,NYSE,Michigan,304,AI
+WEB,NASDAQ,1CFUhBto9g8ddMQdsBt2Xj81hiUWWN3okX,San Francisco,United States,Dollar,14,NASDAQ,California,305,FOX
+IXYS,NASDAQ,1PQwU5bLckx995nUjpYpTQjRjg1iEvxJ7w,Atlanta,United States,Dollar,40,NYSE,Georgia,306,BSE
+ROP,NYSE,1JkEJ3qBeNnVWCFAmsSavKFLz8Tto9Adz,Hartford,United States,Dollar,81,NASDAQ,Connecticut,307,TELL
+DGRE,NASDAQ,1Lju9M9fKuuNCPeHGRdMwuXEGrt6HGgVNB,Springfield,United States,Dollar,49,NYSE,Illinois,308,JWN
+SNLN,NASDAQ,1PE8aFD2KLfSaRkJhp4rzMvpgYDp7ocbfH,Memphis,United States,Dollar,85,NASDAQ,Tennessee,309,MGRC
+GTLS,NASDAQ,1L8e6SisKrpGVVgpAFbxQWmF8r4dZ8vctH,Arlington,United States,Dollar,53,NASDAQ,Virginia,310,COMT
+FSLR,NASDAQ,1AUHRPm89F2kJBZnJfRjZwig4WR2ebKnJL,San Diego,United States,Dollar,27,NASDAQ,California,311,BWEN
+TTMI,NASDAQ,1E5kZiDipNKxW67tgiCdfo3KZcnyJf2yyq,Huntsville,United States,Dollar,65,NYSE,Alabama,312,WAL
+NSEC,NASDAQ,17XCpzMdBtDvfahYhdoFy7oFg73oBWq1v4,Little Rock,United States,Dollar,17,NYSE,Arkansas,313,OAKS^A
+BERY,NYSE,1J2PQFtwnb8hSJuG621pNKsxCND14fVCXv,Fort Worth,United States,Dollar,45,NASDAQ,Texas,314,TEAR
+PCYO,NASDAQ,15DpU9et3HLnE7KgKnBKPCE88WFAokg57p,Miami,United States,Dollar,17,NASDAQ,Florida,315,TRPX
+HT^C,NYSE,1JTri46iGLywmT6FxSzmsWMLNHtn8KVyyT,Sacramento,United States,Dollar,17,NASDAQ,California,316,SPLK
+PTLA,NASDAQ,1BN3eMDwCdeyBzUzK9q1cnNTKaT6gE5QSn,Jamaica,United States,Dollar,14,NASDAQ,New York,317,SIEB
+GTXI,NASDAQ,1MQbKTdF8NVPDzZ12WXsBc8TKtXUZqtuXU,Norwalk,United States,Dollar,75,NYSE,Connecticut,318,LYG
+DVN,NYSE,1BgAcm5YUn1bdNcNHMvjegerN8vFMHXtZ,Lubbock,United States,Dollar,59,NASDAQ,Texas,319,HLG
+BLX,NYSE,175VNB6atfczwhpi9jHMi2VWYBPy8UdAPn,South Bend,United States,Dollar,42,NASDAQ,Indiana,320,GLPI
+UVE,NYSE,1LR4GeiuJHZeyg2c7mXrKnD4hN9ZfQYGnj,Buffalo,United States,Dollar,30,NYSE,New York,321,GS^J
+DHI,NYSE,16N9aDaxEK4spawdERmAvUyGpSZLCwYnF9,Wilkes Barre,United States,Dollar,2,NASDAQ,Pennsylvania,322,MITK
+LVNTA,NASDAQ,12cQgykMtWCqgu92fuEHe71NEj6dyPRrQN,Charleston,United States,Dollar,62,NASDAQ,West Virginia,323,LPTH
+NIM,NYSE,1GQinDqFFrrzCK9TcEJNU9rQkqNw2QMijn,Arlington,United States,Dollar,92,NASDAQ,Virginia,324,BUFF
+CLRBW,NASDAQ,156DTqdrMZmAcdusAbWJPRTneVRCceJt1v,Jackson,United States,Dollar,70,NASDAQ,Mississippi,325,SNHY
+EXTN,NYSE,1D5EEmXp6wgE17z2njB2EULrkET4BpG6AA,New York City,United States,Dollar,12,NYSE,New York,326,CRCM
+AWF,NYSE,1KU6TSqXpFqCETxNmCkpjH3UsbqKayzqqr,Burbank,United States,Dollar,62,NYSE,California,327,HYT
+TMUS,NASDAQ,1JgmR8DcqdGULa7YNQjRZ7S2jG9X4Dz2xF,Beaufort,United States,Dollar,49,NYSE,South Carolina,328,INN
+NXTDW,NASDAQ,159iQeRGW8kdFWLCH5mu9HJJM4yV2f3VP8,Oklahoma City,United States,Dollar,26,NASDAQ,Oklahoma,329,TRMK
+EXXI,NASDAQ,1XdyoCyebN8Ro1y7Chw7pwoP3gm2v8MsT,Bronx,United States,Dollar,41,NYSE,New York,330,NAO
+ZTO,NYSE,1BnMZzfNdaMK2LZfMhpgNMWKrnC7Jx4Urb,Wichita,United States,Dollar,45,NYSE,Kansas,331,DM
+PCTY,NASDAQ,1B7rkRecFp8hkP41HwsexXNMPCZ4xCG34k,Charlotte,United States,Dollar,50,NYSE,North Carolina,332,MP^D
+FBIO,NASDAQ,15Eqxd4jVMyNVfjixj8igZnCFwFKws6hj3,Detroit,United States,Dollar,82,NYSE,Michigan,333,JMPC
+IVENC,NASDAQ,1EJVpMxCPGo3YPoLVqdwaqLgvLRyDFpUw1,Miami,United States,Dollar,88,NASDAQ,Florida,334,BCOV
+BWLD,NASDAQ,1GiyQFWaiDjdYQd3HEF1Xp5tiBpado4jGi,Rockford,United States,Dollar,51,NYSE,Illinois,335,NOA
+CRD.A,NYSE,1AmAwLTpkZCTwAGzo74yMXYZHNnZwx5ZrH,Columbia,United States,Dollar,18,NYSE,South Carolina,336,DE
+QRHC,NASDAQ,1FKS7M3Wtwb1nL5N6fPmUDPULUcpYidbTC,Omaha,United States,Dollar,77,NYSE,Nebraska,337,GFA
+JPM^F,NYSE,1AhMaRRvez7ZZ5oePDkYphM2xpYr8NxFJC,Birmingham,United States,Dollar,95,NYSE,Alabama,338,SF
+BDX,NYSE,175HWHGPXKQvGSPsmtPuZcTpBeRXGhGbAr,Tampa,United States,Dollar,4,NASDAQ,Florida,339,HCAP
+SMFG,NYSE,1QCvXX7BFJswG5w5ASkRN5zNLXH5FttrbR,Sacramento,United States,Dollar,2,NASDAQ,California,340,ENTG
+LJPC,NASDAQ,135DLTUqRBA9TnwcVWerKdBSGQo1vkdiG7,Honolulu,United States,Dollar,11,NASDAQ,Hawaii,341,REXX
+DCI,NYSE,16ZCQobnNzk8AqhebJ6s37aHKRLuEij4C7,Albuquerque,United States,Dollar,37,NYSE,New Mexico,342,ESL
+UVV,NYSE,1ELrwR53WvjEHuZqZeVMmZybUHM5Gpty5v,Tulsa,United States,Dollar,69,NYSE,Oklahoma,343,AYR
+NXC,NYSE,19SMjWYSPogtTkd5vPRaZErK3qARzruDpt,Richmond,United States,Dollar,17,NASDAQ,Virginia,344,SGC
+VZ,NYSE,1HBLB9XtR51NZhDxaHzQgJWw55U9vticVN,Virginia Beach,United States,Dollar,19,NASDAQ,Virginia,345,MATW
+IIIN,NASDAQ,14XTg6TWUydFAykT46Zogtpojis56UCpff,Topeka,United States,Dollar,42,NYSE,Kansas,346,BLK
+LANDP,NASDAQ,1B9fN8yRZUhNtRianJXK3t3Q7UAwZYTzYi,Van Nuys,United States,Dollar,94,NYSE,California,347,CVS
+ETX           ,NYSE,1NzTLWXR9AizmG7Me2AsYqB3wNXa8mNRX6,Chicago,United States,Dollar,54,NASDAQ,Illinois,348,CYAN
+WFC.WS,NYSE,16gVLeJg599J2funWiGjGhZzVtNhrV88JR,San Rafael,United States,Dollar,70,NYSE,California,349,WPG^I
+MTEX,NASDAQ,1LkAgcdDHez56wTai1GnHZws39PUFqVTPH,Detroit,United States,Dollar,84,NYSE,Michigan,350,GWR
+CENT,NASDAQ,1Foq3YsFkaN8ZU6fvi3garMZ3kYnGxAzcM,Grand Rapids,United States,Dollar,27,NASDAQ,Michigan,351,EBAYL
+NWE,NYSE,1NvZbABzjZTdaUhetUUNBuRLozggYiLXHw,Staten Island,United States,Dollar,68,NYSE,New York,352,BVN
+EMES,NYSE,1PmAYQ7qEkHtfpAzZfY7GpWd9TDMXjpDP,Fort Wayne,United States,Dollar,80,NYSE,Indiana,353,THC
+FTNT,NASDAQ,1FYeHVj9JdSDXQsBCJrVRMLtS2Qua1zRM,Washington,United States,Dollar,99,NASDAQ,District of Columbia,354,UBIO
+VGSH,NASDAQ,1NKVsuCuSHfkaLU4bYUed9DS5MvT18hYxh,Davenport,United States,Dollar,23,NYSE,Iowa,355,TDI
+EFT,NYSE,1NnRUmez7pBUaghUpL5QVdfrbjiu62SLR3,Portland,United States,Dollar,22,NASDAQ,Oregon,356,CBPO
+KSS,NYSE,16MithZzS3fpXR71WczCUtcscoJ7ubqnnu,Stockton,United States,Dollar,13,NYSE,California,357,SPG^J
+VIVE,NASDAQ,1NrufVbC8yH7DWohS9LbQNwyo5JJbrjXiB,Murfreesboro,United States,Dollar,49,NASDAQ,Tennessee,358,ESND
+JHS,NYSE,1LiSMcYQ2YBr27pxTdMLELybVL2qQgYfE,Chicago,United States,Dollar,9,NYSE,Illinois,359,EGL
+BANC^C,NYSE,1MHExYvSEogkkiShcCoHXVkzrgrgLfA7hz,Washington,United States,Dollar,43,NYSE,District of Columbia,360,CHL
+UTHR,NASDAQ,1EnHLCiKVecEWJRKWjmsXVoEDHUiEmTNXp,Albuquerque,United States,Dollar,2,NYSE,New Mexico,361,KO
+CBL^E,NYSE,13o3WppPavmMFb4yVkdgGHbeptuuY2cSeA,Houston,United States,Dollar,24,NASDAQ,Texas,362,FWRD
+BLX,NYSE,1EJvnZ61K28Gcd9SDxXfyHBcif47d1Ct3h,Rochester,United States,Dollar,66,NASDAQ,New York,363,PMD
+DYN^A,NYSE,1CctsnmWpUyaWsCqnyDNGwLCaSe3E6SNg,Toledo,United States,Dollar,88,NASDAQ,Ohio,364,SBGI
+TANNL,NASDAQ,1EFM816b94kKVgSdHvRZ5zTGr76aV2Y5go,Phoenix,United States,Dollar,27,NASDAQ,Arizona,365,ALGT
+IPHI,NYSE,1aABWkhHtezmDuqvJHzW2DxEDZCqqtgzE,Fort Worth,United States,Dollar,14,NASDAQ,Texas,366,NVEC
+ACWI,NASDAQ,17rA4Be8ensvwoimF3UT6ojJfdSngVyFuc,Washington,United States,Dollar,75,NYSE,District of Columbia,367,RUBI
+PYZ,NASDAQ,14vDMwUmjNRsBSZ835TouertyNrmgkU9vn,Decatur,United States,Dollar,79,NYSE,Georgia,368,SUM
+BDJ,NYSE,1JD9tsGihAUoDr4yqFHLsaT1yfmK6Xiuxq,Detroit,United States,Dollar,21,NASDAQ,Michigan,369,IGOV
+RNP,NYSE,1Byyg3zzaE8Bs9PxerCQMyBBP5ndR7bbEK,Mesquite,United States,Dollar,17,NYSE,Texas,370,HEI
+QPAC,NASDAQ,1Lf6XFHzmQfGucf1C7YCMVXKRiwYnabJV5,Evanston,United States,Dollar,45,NYSE,Illinois,371,PSA
+CG,NASDAQ,1HPkjdwx2M2ekDzK8d2AvCPC5bw73zz75Z,Sacramento,United States,Dollar,100,NASDAQ,California,372,RVEN
+SPIL,NASDAQ,113GMLShy8RKKkZgzQJ4cVeZnLCfPNyGan,Spring,United States,Dollar,99,NYSE,Texas,373,BDX
+CVA,NYSE,1LGbuaHA9hdT3TyrYA4b6ffd3NxAV9VLYs,Santa Rosa,United States,Dollar,58,NYSE,California,374,VEDL
+DSX^B,NYSE,1De4q1cgCUCfrYgLCnpG87uMYkBw7EofzR,Arlington,United States,Dollar,67,NYSE,Virginia,375,NYLD.A
+AWP,NYSE,133B5nPdknHUWGUofcLyH5dd5vTJnnnSCB,San Francisco,United States,Dollar,36,NYSE,California,376,CNC
+TDC,NYSE,148aTdYDmvP4XYjGd7m2PMcPkuqCgQgs1y,Saint Petersburg,United States,Dollar,92,NASDAQ,Florida,377,LPSN
+GS^I,NYSE,13S1Mw6ZVxz4qQa7x2VYUcaqxVjBhP87VD,Minneapolis,United States,Dollar,69,NASDAQ,Minnesota,378,CPAAU
+WLFC,NASDAQ,1LHMRYtw2rQCbJjZpkyW1mVm2iutDmG6Kw,Cincinnati,United States,Dollar,51,NYSE,Ohio,379,BAF
+XCO,NYSE,1FoJtoQx8r7g82tknYVRfjPi3UuC4DSRbL,Bridgeport,United States,Dollar,82,NASDAQ,Connecticut,380,ISTR
+NETE,NASDAQ,1GTYVp2FAkTGpXyqCGdnrL7JBh5emqSdXu,Austin,United States,Dollar,99,NASDAQ,Texas,381,APDN
+PLD,NYSE,19U17qAEomKB8s8RwZK5t8Uz3DdiB8aTC3,Brockton,United States,Dollar,89,NASDAQ,Massachusetts,382,NVAX
+OSG,NYSE,1JQr6Y5vzDfMdfnFP7Q1gKhPRt3R85K27x,Washington,United States,Dollar,14,NYSE,District of Columbia,383,KKR
+PBI^B,NYSE,1EdjeGTtG6QMyqYXTQdpBBa5cUtgCrypMK,Melbourne,United States,Dollar,60,NYSE,Florida,384,DSX
+KFN^,NYSE,1KjLoxgk62u1A4h7eL977fAyuyMFtLqB6w,Ridgely,United States,Dollar,60,NASDAQ,Maryland,385,FCNCA
+TAHO,NYSE,1EQcbeqB9bAAEUAKDkXut8ZzNC7uJLW68P,Birmingham,United States,Dollar,68,NYSE,Alabama,386,MTRN
+PAY,NYSE,16D6szUq8DDeihjKYqitrQe3jm35HQGyjY,Hartford,United States,Dollar,60,NASDAQ,Connecticut,387,CZWI
+SSTI,NASDAQ,18Qt21kpJsqwi3X4gX4ephwhKza845EhL9,Virginia Beach,United States,Dollar,72,NYSE,Virginia,388,CAT
+PSO,NYSE,124PM7G9inMwBkr44LEAu6HJDzhg29rgwh,Lafayette,United States,Dollar,88,NASDAQ,Indiana,389,NSSC
+IOTS,NASDAQ,1HAgpzjRrYens6JcF7bFRSNMDwVzm5gTvc,Santa Ana,United States,Dollar,96,NASDAQ,California,390,PPHM
+TNP^B,NYSE,1DZ4HSAUtgDeQ77XDVfroPYHHQMqDKSAyX,Akron,United States,Dollar,83,NASDAQ,Ohio,391,AGRX
+ITW,NYSE,1HeBiFi3L9sKF2VxfexnRBswVzaUVkpnMQ,Bakersfield,United States,Dollar,98,NYSE,California,392,PBH
+LMHB,NYSE,136LUqyggxSczD6XjTg9oY1xk3tQxe4hA8,Columbia,United States,Dollar,25,NASDAQ,South Carolina,393,QAT
+TSRO,NASDAQ,1B6RhvTTxAZDkBwu9ZkRaBfQgBoj9HAXtN,Philadelphia,United States,Dollar,2,NASDAQ,Pennsylvania,394,DRNA
+TECH,NASDAQ,17cVZdVo9Tuzzjz4dA1Des1vViwjq8wiJx,Clearwater,United States,Dollar,49,NASDAQ,Florida,395,DYNT
+EYEGW,NASDAQ,19fQNtTrnzNkHTQwXKxNgNxqcSwy6vfYVa,Memphis,United States,Dollar,33,NASDAQ,Tennessee,396,HNNA
+SF^A,NYSE,17rwEhx37S9pbxQUw8wGSo9Nm9mctP4pQ3,El Paso,United States,Dollar,3,NYSE,Texas,397,ELU
+LOW,NYSE,163uSx7XEHRa3jhqB8YxiHVf4gULg6Gv36,Washington,United States,Dollar,37,NYSE,District of Columbia,398,MRK
+ECA,NYSE,1C5vaZJ8qCvGkd5WBuw8tpMuDFsGmJZxvi,Reston,United States,Dollar,81,NASDAQ,Virginia,399,PCMI
+SAR,NYSE,16HPNSVYafTgbck57v7NVnHBxHqXUVaKBr,Garden Grove,United States,Dollar,40,NYSE,California,400,CTY
+OTEL,NASDAQ,16kmYbZ1Bewth2HUVcFbDmEtmmGzaJMbeD,Salt Lake City,United States,Dollar,84,NYSE,Utah,401,JCE
+RST,NYSE,1BtQiezCq7prJHxgsW3wq1wHKEqws2qqd9,Youngstown,United States,Dollar,17,NYSE,Ohio,402,CABO
+PBR.A,NYSE,1GFnXCmjVHLNgsequs8nUMYyTex1aFHwYu,Nashville,United States,Dollar,86,NYSE,Tennessee,403,NTEST.A
+ORRF,NASDAQ,1QBNCMFo13wEE6j9t3hmiqrCoyNpo91kKd,El Paso,United States,Dollar,55,NYSE,Texas,404,MAS
+VIPS,NYSE,1BDDTXy5rTdtTht84DvXXBbCSnvDwgW1Mq,Oxnard,United States,Dollar,40,NASDAQ,California,405,CPST
+SPG,NYSE,1NmqgvMsHLmSY2gdcqnebPkEJ4PnmVDmum,Orange,United States,Dollar,29,NYSE,California,406,CBB
+MDLQ,NYSE,19DqjJaTikXCLMFzMo3aewbH1Fo8Nfweju,Mobile,United States,Dollar,54,NASDAQ,Alabama,407,CDOR
+SBPH,NASDAQ,1A6hw2TURWjQpV1JVotFyAFwDFVfTwsL7A,Erie,United States,Dollar,54,NYSE,Pennsylvania,408,KR
+WWE,NYSE,1BxEX8ArKcWiTXgiGVWB32EGAUXgSpFTWa,Dallas,United States,Dollar,56,NASDAQ,Texas,409,ONB
+STDY,NASDAQ,1J6ybvLBt8cd9UJBSKMv9BLhUPsUVF94gA,Great Neck,United States,Dollar,61,NYSE,New York,410,PN
+FISI,NASDAQ,1NphY7k1E9VFNkbZiu22HYvCf13EYao9FR,New Orleans,United States,Dollar,48,NYSE,Louisiana,411,PBF
+VPV,NYSE,1N2zrz6K31GFzHz7nfFZmQjFHigoMERmGE,Oklahoma City,United States,Dollar,91,NASDAQ,Oklahoma,412,RFDI
+FCA,NASDAQ,14FhYYpyfJRonRuD5UosvVwJZSGGwwuVya,Boston,United States,Dollar,17,NYSE,Massachusetts,413,FBC
+VALU,NASDAQ,1D4NentksLfJeFYqzwKQFACZbHsY5Z3xKV,Akron,United States,Dollar,62,NYSE,Ohio,414,KN
+QTNT,NASDAQ,1B9SPfbEL6knqNKdjuP7SDrvfJfG32PGtZ,Washington,United States,Dollar,57,NYSE,District of Columbia,415,ALR^B
+SBAC,NASDAQ,1Jz6ud5HWret28X9SxTiMa33aVDpF3kUJJ,Pittsburgh,United States,Dollar,86,NYSE,Pennsylvania,416,FOF
+PLYAW,NASDAQ,193rkMaRQm4Ah1L5drZ7hmqnDhhxYDevHG,Scottsdale,United States,Dollar,37,NASDAQ,Arizona,417,TSC
+JNCE,NASDAQ,1EZXXxE9KWH2VjJ5ZnGXuHSBsF2HpVLFdD,Huntsville,United States,Dollar,86,NYSE,Alabama,418,CIA
+ALDX,NASDAQ,1Es3VTkLBuWNGNZq95pPU6SybQQ6HCipJn,Greeley,United States,Dollar,91,NASDAQ,Colorado,419,GIGM
+VVC,NYSE,1BTnmUZrX9LFBMcVg6CQMFim73FtJL5hhY,Harrisburg,United States,Dollar,87,NYSE,Pennsylvania,420,MFT
+FFA,NYSE,1HjXKM5GpCyZzCv75vpC6gj8BzLT5fLTgR,Brooklyn,United States,Dollar,36,NYSE,New York,421,BOX
+IMMU,NASDAQ,14CnJZtQtpNxaihswrEi3Zaci9tFQzKPSS,Fort Smith,United States,Dollar,81,NYSE,Arkansas,422,TEP
+ISM,NASDAQ,1DRya26B4wXtyJ5TaJuuCb6y37jD1VAkpE,Washington,United States,Dollar,54,NASDAQ,District of Columbia,423,XOMA
+NANO,NASDAQ,17WRDgqT1x9kM3K2R9QkqNfHi3CogEvCMH,Toledo,United States,Dollar,92,NYSE,Ohio,424,GMRE
+GILD,NASDAQ,1DkugpEVhckYxUNhCfFnQP1e8UepkXLTDe,Birmingham,United States,Dollar,96,NASDAQ,Alabama,425,FPAY
+NTEST.C,NYSE,1sVGiRC9FLFb4vuZd51N1KD9tDuswgzmo,Albuquerque,United States,Dollar,23,NYSE,New Mexico,426,SBS
+CNXN,NASDAQ,15gUtb4urYTvTVK3nUkTi1s1GePmuqiQha,Wilmington,United States,Dollar,1,NYSE,North Carolina,427,CNCO
+UNXL,NASDAQ,1CWYFe8ZTfFQwKLn6na2DeHjJRVCSGe6fz,Tulsa,United States,Dollar,4,NASDAQ,Oklahoma,428,ISM
+MTRX,NASDAQ,1JoArtkMEKyi7kAj1D3DPyqNSmVWn4RYj1,Atlanta,United States,Dollar,83,NASDAQ,Georgia,429,MLNK
+OFG^B,NYSE,17owuH835xiTe8ebqrQyW84rH1yLmR4zVV,Minneapolis,United States,Dollar,11,NYSE,Minnesota,430,MYD
+MIIIU,NASDAQ,1H1e6EYbUtJPf6LpgY92b1646QuQ5a72Wv,El Paso,United States,Dollar,32,NYSE,Texas,431,ZF
+SHO^E,NYSE,13e315WktcVcyNA9pZwwvUtqnoKKmk7k9P,Beaumont,United States,Dollar,58,NYSE,Texas,432,MTZ
+CIO^A,NYSE,1MrHCAsFgxGvHHN9XoaUY4zTwc1umfRCWS,Atlanta,United States,Dollar,91,NYSE,Georgia,433,VMW
+XGTIW,NASDAQ,1C7h8boCcuqjXkf9cENDjBgHXocSjJ3AXs,Erie,United States,Dollar,44,NYSE,Pennsylvania,434,QTM
+CENT,NASDAQ,12hzrzMjvn3ZXvYZLmzEuLxTao9BGuuWW1,Tucson,United States,Dollar,85,NASDAQ,Arizona,435,YORW
+AES,NYSE,19vA9i5XMoaVya1tX8vGxBthXUa6Ae59fs,Las Vegas,United States,Dollar,5,NASDAQ,Nevada,436,RGLS
+SBRAP,NASDAQ,1FVbfg5oKD5Uj86c7xVj7bH7KNQS4fH2Uo,San Antonio,United States,Dollar,100,NASDAQ,Texas,437,OMER
+OFED,NASDAQ,175P5SC5QnmVTAg2kqk5VQEDd4NRpzPJKb,Lincoln,United States,Dollar,28,NYSE,Nebraska,438,WPM
+SNV^C,NYSE,1KS2oKVwhLYZnRdauKUuUKYQowYxoeD3yi,Paterson,United States,Dollar,83,NASDAQ,New Jersey,439,SGEN
+MTW,NYSE,16XU7Cm2TJkSakeAEaYcRfHdp8pH27Vvpf,Lexington,United States,Dollar,12,NYSE,Kentucky,440,TVC
+ANGO,NASDAQ,1CLQE4ha4kKPtQajf1fUFinmh2TUTW9Jwn,Abilene,United States,Dollar,25,NYSE,Texas,441,ICD
+HPP,NYSE,1KPWWEcoWnykVPgTwTX6CRqvpemTBaC2rq,Kansas City,United States,Dollar,2,NYSE,Missouri,442,PSA^W
+JMLP,NYSE,1EXjs7NNmdyeDMAHiMcvShHJSF348TYNbx,Buffalo,United States,Dollar,96,NASDAQ,New York,443,FONE
+TAX,NASDAQ,1Cm8XJ6hMWCkVz87aUxZqSFUkKcbSnWv5j,Springfield,United States,Dollar,84,NASDAQ,Illinois,444,VTWG
+RYAAY,NASDAQ,1GdxH6TCrgeQMmN189SwEHWnqSKKoUk71g,Minneapolis,United States,Dollar,73,NASDAQ,Minnesota,445,VCIT
+SNES,NASDAQ,1HLTwAoXLezv9VyWd5CWuY7RYprkKZXbf3,San Antonio,United States,Dollar,66,NASDAQ,Texas,446,NMRX
+XONE,NASDAQ,1K917gy6XTv9csuTPBw5sKx2HiU7mWvJvN,Little Rock,United States,Dollar,67,NYSE,Arkansas,447,WFC^V
+NTEST,NYSE,1tT3qRCRfg5sxcmP8skH9QtJDRRAnUfzi,Philadelphia,United States,Dollar,68,NASDAQ,Pennsylvania,448,EQFN
+PENN,NASDAQ,172sozXrxSvBGL4CUrAnWVEH1NH7KXd9eK,Des Moines,United States,Dollar,76,NYSE,Iowa,449,WAC
+BBD,NYSE,1G6WtyqkhtUdRfad9dHksxT1Y9BQ11UAxU,Houston,United States,Dollar,16,NASDAQ,Texas,450,ACRX
+TTMI,NASDAQ,1PRZZs2TonRF9rzBgNi6EzUYpjYZQnUJvN,Columbia,United States,Dollar,96,NYSE,South Carolina,451,FND
+SCHN,NASDAQ,1HvArWhZwgqtELx8xbXrAGxhEUMgVtmq9K,Salt Lake City,United States,Dollar,100,NYSE,Utah,452,AXL
+LEXEA,NASDAQ,1MUFVWAo4cdM6a6BeoZHu7vq6ekd4dMYUi,Shawnee Mission,United States,Dollar,24,NASDAQ,Kansas,453,GAINM
+HBHCL,NASDAQ,1AnvEuz5PojoJ5YX5iENT1By2Z7t4XKSsp,Santa Clara,United States,Dollar,88,NYSE,California,454,SUP
+SWJ,NYSE,1PFE5tScmiJCDU5c8mLXixToKFwCn9RZRq,Oceanside,United States,Dollar,90,NASDAQ,California,455,SBRA
+ETV,NYSE,1NpPnaPTcsgQoAQsJhRcmiiEja2oarCg4Q,Columbia,United States,Dollar,5,NASDAQ,Missouri,456,GOODP
+SRTSW,NASDAQ,1FyMP7HWBLcsLSYHFQwqnHusCKrJSZ5vFB,Lafayette,United States,Dollar,67,NASDAQ,Louisiana,457,EXTR
+TTS,NASDAQ,12kk1GZdPjACqeEEQBpGSjQekiwcw3wUU4,New York City,United States,Dollar,46,NASDAQ,New York,458,TELL
+ANFI,NYSE,14E3ZNMRppNm6ZVr7vieL52K5ZM9nWFe8j,Waterbury,United States,Dollar,49,NASDAQ,Connecticut,459,PBBI
+OBAS,NASDAQ,1zVr3Lnexrf1cLt9GoVJ5f48TPXZFeGuM,Wilmington,United States,Dollar,46,NASDAQ,Delaware,460,RILY
+INSE,NASDAQ,1BB8aRgqcxtP4TzZSfgV6Lvyvy7FS4py3V,Pittsburgh,United States,Dollar,48,NYSE,Pennsylvania,461,DCUD
+SGRP,NASDAQ,18N4BkDsV2bXmuSQiAez5eZciC9cMy6BEW,Washington,United States,Dollar,37,NYSE,District of Columbia,462,NIQ
+HSY,NYSE,19HWGpDqmXiFNuWJdfX3iVALz8LxBmsN9Q,Colorado Springs,United States,Dollar,32,NASDAQ,Colorado,463,CY
+BKEPP,NASDAQ,18hyJov71EPgmHY9KjfU5wtWdQfdAm4Lms,Torrance,United States,Dollar,39,NASDAQ,California,464,TA
+SMBK,NASDAQ,1Dn6bz84ppgmNAvrPUZLzkwCq5BXsUggeF,Louisville,United States,Dollar,82,NASDAQ,Kentucky,465,VIVO
+DVCR,NASDAQ,151oGeGkiY9vWwrwGfw2zFFL8KcTth7Kcg,San Antonio,United States,Dollar,34,NASDAQ,Texas,466,IFMK
+GE,NYSE,182DgSUih6pCXUemftxJzNon2eXQCURugZ,Dallas,United States,Dollar,41,NASDAQ,Texas,467,STB
+CIM^A,NYSE,1GwNzqWCDfXKH3SrpDVTq2pf1P6ypRTnb3,Santa Ana,United States,Dollar,60,NASDAQ,California,468,NBRV
+STLD,NASDAQ,1BVenMtnjGqv6BGMMNTEUSHWWTphZetR13,Brooklyn,United States,Dollar,33,NYSE,New York,469,USB^M
+ISRG,NASDAQ,1FhiFkESr9Pb1ZR7qxwjLeuLUKj1H4yrok,Spokane,United States,Dollar,95,NYSE,Washington,470,USB^H
+HOPE,NASDAQ,1LVegfJsjHhSzNWVZKDnbGPi6MhN4SJqQe,Washington,United States,Dollar,47,NYSE,District of Columbia,471,BQH
+MDVX,NASDAQ,1HQJP6T6A9M2Qck8bdhNX4UY14Mhv5JNrX,San Diego,United States,Dollar,88,NYSE,California,472,SDLP
+DLR,NYSE,1FPn5Rn7MZp7t4HGKfmWAWi5EcLFG75NGp,Columbus,United States,Dollar,8,NYSE,Georgia,473,CVG
+RDC,NYSE,1DoUXR4s1KjSKm3QGS7sNpZdPYLvJep5HN,Shawnee Mission,United States,Dollar,85,NASDAQ,Kansas,474,LAYN
+CIB,NYSE,12smEiqPyGmo3Te7riu3wmThGcoifaoXKb,Cincinnati,United States,Dollar,53,NASDAQ,Ohio,475,KTOS
+OCLR,NASDAQ,1PedCGhLLH1ekFH74wzkjZ8vw7jjDFoUt3,Columbia,United States,Dollar,56,NYSE,Missouri,476,MDLX
+RSG,NYSE,1Gh8hiZRpXD6JTLGiKAMWAWCxroztSLFB5,New Castle,United States,Dollar,35,NYSE,Pennsylvania,477,BFS
+SCSS,NASDAQ,1N1s521AXW1Dex2AyEQ71eBsMYXS9BRkam,Spokane,United States,Dollar,5,NYSE,Washington,478,MBLY
+ANY,NASDAQ,14uSzhbGS6hVBoSRUck7QzKM2X2o5vPb7B,Jamaica,United States,Dollar,31,NYSE,New York,479,PAH
+NXEO,NASDAQ,1D5oSFRn1DrrF5dcdDkaF3hcRrwG52Efch,Jacksonville,United States,Dollar,15,NYSE,Florida,480,MX
+HTLF,NASDAQ,1Fjwdz8nukUjCXhGivkDZdFh4FP8dPDhUd,New York City,United States,Dollar,16,NYSE,New York,481,REX
+KMI,NYSE,17HNtqNANy7R4rvtmX7Ce5LDnMxmy2pJBF,Spokane,United States,Dollar,90,NASDAQ,Washington,482,PLBC
+CTRP,NASDAQ,18QHHskvpfv14KXmtrDEe6Qsr9tUicTMrV,Washington,United States,Dollar,30,NYSE,District of Columbia,483,MNK
+BKN,NYSE,1CiMVzRVdSp6iyrDw62zetUhwSbrv5uhUz,Wilmington,United States,Dollar,55,NYSE,North Carolina,484,MUR
+GIMO,NYSE,171AESqqP6a9PehvyAgwBB7E67Ys4AUNgt,Lexington,United States,Dollar,58,NASDAQ,Kentucky,485,EXAS
+YRD,NYSE,1C1z56hJX94prwZQmRgiZ1JuKsgjn1fhpZ,Indianapolis,United States,Dollar,26,NASDAQ,Indiana,486,IEP
+YUME,NYSE,1FWSKxof3LP5qqppwTiQuoBJiag2eUQCCg,Saint Paul,United States,Dollar,14,NYSE,Minnesota,487,FDC
+SB^D,NYSE,1AgqHDhg3cjyXPgGEzGxyWMfqWmru2YgUM,Baton Rouge,United States,Dollar,64,NYSE,Louisiana,488,CFX
+PAAC,NASDAQ,19zM2n6kd8htFopkWMM26EyEnvZYf8Rxbe,Washington,United States,Dollar,67,NYSE,District of Columbia,489,PRE^F
+PCF,NYSE,1CemJe8kPE4BqHhykUZz832YtyUAcAuxRT,Indianapolis,United States,Dollar,37,NASDAQ,Indiana,490,STLR
+NRP,NYSE,1DEfV2jvcKGt9kyLf9HLr5TFRuTZuqYhGS,Glendale,United States,Dollar,59,NYSE,California,491,ACC
+GEB,NYSE,1BZR1gZmBjdUe2KS7xoDQLD15XZcdBsMes,Springfield,United States,Dollar,72,NASDAQ,Illinois,492,QIWI
+FNB^E,NYSE,1GhqnuWogwhanbxKLuByCc54zmCMKVTmJc,Dallas,United States,Dollar,29,NASDAQ,Texas,493,JKI
+HTBK,NASDAQ,1MzqpeMBxGoQdGekuvnJZykZYJmwmJAVvM,Athens,United States,Dollar,30,NASDAQ,Georgia,494,FSCFL
+TTNP,NASDAQ,1KMZwqpGxJ1FJ7M9TVDnyF623rx9ZVXUoZ,Alexandria,United States,Dollar,61,NASDAQ,Virginia,495,DWIN
+NL,NYSE,1D7e92krYv8G3feag2pJYAnTyQES6MNxYh,Hartford,United States,Dollar,91,NYSE,Connecticut,496,AIF
+GNW,NYSE,1CF4mfGWMar13jEURioJUugHC2SfNzBa4x,Washington,United States,Dollar,89,NYSE,District of Columbia,497,CUBI^C
+MMDMR,NASDAQ,17AChc7yMKyXZa82y5LeozHLCKLXXr7BGb,Grand Rapids,United States,Dollar,55,NYSE,Michigan,498,MTG
+DLR^H,NYSE,1HNt2Yop9pV2V4ynboeuEx8XKNTNrE2xoS,New Orleans,United States,Dollar,61,NASDAQ,Louisiana,499,GGAL
+UBP,NYSE,1Nb5fZscQm4UVHah8bykYB5gHoSPJBtCtB,Pasadena,United States,Dollar,86,NASDAQ,California,500,CORT
+SNPS,NASDAQ,1NYEyDzLzsygjN84vXG7X9y5LcmKcymz4T,Des Moines,United States,Dollar,63,NYSE,Iowa,501,NBB
+DFS^B,NYSE,1LE8Vvrppe4Y92UVfWocusL817ULWatJoU,Boise,United States,Dollar,33,NYSE,Idaho,502,WGO
+EBTC,NASDAQ,1JVotDiXyLAxmJ3kTmFWtCgs9sy44KrirU,Evansville,United States,Dollar,76,NYSE,Indiana,503,SCG
+ASTE,NASDAQ,1JNQEQuNUs5TnXLMhd1p4hT47tyKxEqRu3,Newport News,United States,Dollar,8,NYSE,Virginia,504,LADR
+TIF,NYSE,14qsmh8meVqTBsCtrBodsYk4GDADFnD6jD,Lancaster,United States,Dollar,20,NASDAQ,Pennsylvania,505,PFIS
+ARIS,NASDAQ,19o16Q7KCc69mZyPQVTznEnYGTBZFwENwa,Kansas City,United States,Dollar,48,NASDAQ,Missouri,506,IBCP
+GXP^B,NYSE,1Z6D2QLcTam4QpQAAeFhfwh7LWWty1PTt,Spartanburg,United States,Dollar,81,NASDAQ,South Carolina,507,STKL
+HNRG,NASDAQ,1KyLg6QUiqRSvGHkY1q8ttQWWwqChaWRxG,Little Rock,United States,Dollar,3,NASDAQ,Arkansas,508,CLRO
+AGO^B,NYSE,191GBeS8q8sxXjfsMMAmL8a39iSrqQ9hCv,Philadelphia,United States,Dollar,84,NASDAQ,Pennsylvania,509,AGIO
+ANTH,NASDAQ,17qkxxngARXSho1LCvtuuq1marAAHMxLHV,Lubbock,United States,Dollar,80,NYSE,Texas,510,SBS
+MRTN,NASDAQ,1DgL6URaPAtS2SmmJQ24cdHpuB7TSR2Jis,Charleston,United States,Dollar,97,NASDAQ,West Virginia,511,CONN
+OLLI,NASDAQ,1H8pPDVBYhZFd3Q9ttPbS8eJ8aVsXV2tHy,Henderson,United States,Dollar,84,NASDAQ,Nevada,512,EYES
+AMH^F,NYSE,124ohPZp8DiXHfKzUUk5Ai6JvfWyAm36dm,Oklahoma City,United States,Dollar,45,NASDAQ,Oklahoma,513,TEDU
+AB,NYSE,1PuLzYzr19rrtPc758fxFhfhB6r9zzaCG1,Oklahoma City,United States,Dollar,4,NYSE,Oklahoma,514,TAP
+CARB,NASDAQ,1NPBbNvTYsAqY7dqpc2u24JYvJk4G9FJqu,San Diego,United States,Dollar,10,NYSE,California,515,SNX
+CUBS,NYSE,1KUuWUcyQTQbZQDASR6pmEGShj33L1H7fd,Fresno,United States,Dollar,64,NYSE,California,516,RSPP
+FUND,NASDAQ,1EcX6zQt24f3SgzHopJcu55WGBwP1C7tWG,Saint Louis,United States,Dollar,61,NYSE,Missouri,517,BCR
+TITN,NASDAQ,13rejLrG8gUJArbP4ovvUMQ6JYWMogy5EH,Las Vegas,United States,Dollar,87,NYSE,Nevada,518,SCE^H
+C^J,NYSE,1JyhqmzkZCokFCBTtmTqXWvZKuPLMunYYk,Norfolk,United States,Dollar,50,NYSE,Virginia,519,SLD
+BW,NYSE,16zndzW467bpD4GXY4NhrPTE2pp4yizkN4,Columbia,United States,Dollar,36,NASDAQ,South Carolina,520,CYTXW
+CKH,NYSE,1KQAHMabomYcz9kcBTfxQNYp3JXH9UCDvZ,Washington,United States,Dollar,31,NYSE,District of Columbia,521,MOG.B
+BPK,NYSE,126hpMB7zFSXfZ1xtVYNi9XbZXjjdDzSeu,Kansas City,United States,Dollar,49,NYSE,Kansas,522,CFR^A
+SAFT,NASDAQ,16km2LHfx22X8oBE2oxP4upTZtrengz6rw,Modesto,United States,Dollar,72,NYSE,California,523,JTA
+ABT,NYSE,14Nm8SSUmPwZTifQdYusQxYvmusq1ukAi6,Springfield,United States,Dollar,27,NASDAQ,Ohio,524,DAIO
+SLIM,NASDAQ,1LbAhUAzc41BwCnbngNmtaSXky97WkwN6m,Colorado Springs,United States,Dollar,80,NYSE,Colorado,525,MCS
+CPLA,NASDAQ,1ATuW2EAcEAZPkD1GEfJ2kuj6VWsrwjEF,Des Moines,United States,Dollar,39,NYSE,Iowa,526,TMK^C
+FFBC,NASDAQ,1Jx2TyVXLXVkpZvcHJC53pah3p9G4xmEFr,Lake Charles,United States,Dollar,66,NASDAQ,Louisiana,527,OPXA
+PSA^A,NYSE,1M9qi9qXb4vXta6hvPUPtw9N74ThwEheEA,Grand Forks,United States,Dollar,32,NASDAQ,North Dakota,528,ACIA
+AMGN,NASDAQ,14RpivHudQaeEiBfqqmrmVCziJ5YpjhPwv,Orlando,United States,Dollar,51,NASDAQ,Florida,529,ADI
+PBR,NYSE,1EZVT8KfsdAjEWddceWWdvLRqamh3zJc5y,Utica,United States,Dollar,52,NASDAQ,New York,530,PCYG
+NYMTP,NASDAQ,1LhZusYU5XCJXfNWFRtFbsgyfN4cirTD8H,Los Angeles,United States,Dollar,5,NASDAQ,California,531,CSQ
+NDRAW,NASDAQ,1AoF7QaSFFyJXfQYwh143LYvi8YkWTyXsX,Virginia Beach,United States,Dollar,7,NASDAQ,Virginia,532,CTRV
+PTNR,NASDAQ,1Disf3qTdTjiA7cNUPXS11tUa4QyGMgYXV,New York City,United States,Dollar,4,NASDAQ,New York,533,DRIO
+USB,NYSE,178VKt1ZbJnpdYuwBBGvQHBxquxdeDtmRV,El Paso,United States,Dollar,58,NYSE,Texas,534,UAL
+KRG,NYSE,1PFNq4vRCDyUJpvnDaNvbw5F3seez2eWWo,Birmingham,United States,Dollar,85,NASDAQ,Alabama,535,SMMF
+VTHR,NASDAQ,1LRfMtDnX1LfVWRXHXbC6cZeTrt8cgnLA8,Birmingham,United States,Dollar,86,NYSE,Alabama,536,PHD
+GDV^G,NYSE,1JqooqFmLjoaJY6hNtFtzRhT9v1J4L1T3t,Dallas,United States,Dollar,25,NASDAQ,Texas,537,IFON
+GTYHU,NASDAQ,1JzyaWUEww9C4fZE2MNfmq6WraNrXSu9LQ,Escondido,United States,Dollar,36,NYSE,California,538,CX
+SB^B,NYSE,1HmQ8ScR9UzARpaFkrkX5mmfdpc92FQZjX,Sioux Falls,United States,Dollar,21,NASDAQ,South Dakota,539,ALCO
+SGH,NASDAQ,17ySjFMgf19Cqvq3bAfMXsv4xkEbfqbkrU,Lexington,United States,Dollar,75,NYSE,Kentucky,540,GJT
+FSNN,NASDAQ,1a5HGFJYTYRjiP9sRWApgcPbJmWMkbTs2,San Diego,United States,Dollar,74,NASDAQ,California,541,MKSI
+ROBO,NASDAQ,1J98HhxwBLRKV5Y3eXH8PetAfz99KjzwQT,Jefferson City,United States,Dollar,90,NYSE,Missouri,542,JWN
+GSL,NYSE,1VQjSy1dhs1NuhKo4NGFP2tkWoi8Vecg3,Manchester,United States,Dollar,1,NASDAQ,New Hampshire,543,UTMD
+SU,NYSE,12X4T2HZqnTxddEVPjMW245kHTDwr5p9RQ,Huntington,United States,Dollar,97,NYSE,West Virginia,544,COF.WS
+TFX,NYSE,1BvceqiwqgUCPrGiBmNt5Y4Amjre37FiJL,Bridgeport,United States,Dollar,86,NYSE,Connecticut,545,EXR
+MLAB,NASDAQ,161SY5Ey45tZjeAQqBZsCAwfUBmoMeLgQx,Sacramento,United States,Dollar,57,NYSE,California,546,GS^C
+INVE,NASDAQ,1BJvbhKDxuk272QnrYbCaYE2tU78p5eMXb,Plano,United States,Dollar,59,NYSE,Texas,547,FEI           
+FNF,NYSE,17FaYNEnSVMfGBGzU8XvJmWFt8QMhiww6L,Ridgely,United States,Dollar,97,NASDAQ,Maryland,548,SRPT
+IBTX,NASDAQ,1F2qN8UttPGxEQ7hAXyiBCzZGZThQfoz1K,Ocala,United States,Dollar,63,NYSE,Florida,549,KTH
+TOO^B,NYSE,14tERuAtduMDYyU4Kfse1fUjkm1vYtCXbT,Kalamazoo,United States,Dollar,90,NYSE,Michigan,550,GEO
+SNH,NASDAQ,12XYBBHNB9JqYXQpUeRFZZxwskSkons6Cz,Detroit,United States,Dollar,56,NASDAQ,Michigan,551,FTNT
+FDIV,NASDAQ,1MTQkfYyER4YQ8qNKG8NDkXGQMisdTYbEg,Jackson,United States,Dollar,55,NYSE,Mississippi,552,GE
+EPR^C,NYSE,1Lc5vjRJNhsjDrfW3t85qnLyLdFo2cT8PS,Chicago,United States,Dollar,75,NASDAQ,Illinois,553,NAII
+PSA^T,NYSE,1BgZUQKd6dCq3ymk4vYUng5xz5N8RW6D6n,Minneapolis,United States,Dollar,1,NASDAQ,Minnesota,554,AXAS
+DGRW,NASDAQ,1WV3QDfg7v4N58ezAvEkrfguLhNyqjUgz,Plano,United States,Dollar,7,NASDAQ,Texas,555,TRPX
+FOXF,NASDAQ,1B3oPjqbNURshDVxEURU5J3H6yD2M2DxoW,Arlington,United States,Dollar,42,NASDAQ,Texas,556,KBWR
+ACIA,NASDAQ,1DWvghED6Fvnu14e5voPgR3GXeKhugi6Uz,Katy,United States,Dollar,94,NYSE,Texas,557,BCE
+GTN.A,NYSE,15UdhyYHht4QkkqgG14TTcnfCdWQ4FFHqX,Phoenix,United States,Dollar,9,NASDAQ,Arizona,558,MNRO
+LMHB,NYSE,13Mit1h55nrDbWT26z9phQoeNX9YoYpCz9,Stamford,United States,Dollar,98,NYSE,Connecticut,559,HSY
+ECA,NYSE,1LbkS7pM4Mvbgxm942ZgHEXTHNusAdDUyo,Buffalo,United States,Dollar,67,NYSE,New York,560,JPM^G
+PMPT,NASDAQ,1PSQpPDGahxGhrqQY6jdwTjBXyk3rQX1wY,Dallas,United States,Dollar,66,NYSE,Texas,561,AHT^D
+CLNS,NYSE,1qYnzGhMbg8FwvZFfkeCAJcb9jokgh8H1,Paterson,United States,Dollar,72,NYSE,New Jersey,562,CDR^B
+EGLE,NASDAQ,1CyNV3dVfbeExVksyJ1NYFyjoRvENaVJtp,Colorado Springs,United States,Dollar,64,NASDAQ,Colorado,563,APEI
+WEBK,NASDAQ,1By5SNDEgbqeU6K7Xp2AFx1qTepwKUtbP,Virginia Beach,United States,Dollar,11,NASDAQ,Virginia,564,FMBI
+WCG,NYSE,1EtXXrd4AUhSdzUvHgJUgZniKcmZyExzUA,New York City,United States,Dollar,74,NASDAQ,New York,565,KNSL
+JPM^B,NYSE,1BGKuZhAgSBipy9p5hGB8xibRaHPB6NQHN,Port Saint Lucie,United States,Dollar,3,NYSE,Florida,566,FPH
+DRA,NYSE,1K1nc2396buaiRpMJYWFtBw8xMbdd33rJc,New York City,United States,Dollar,70,NYSE,New York,567,QHC
+GLP,NYSE,11vvCRaw3nqLqbKCyCyCbGFpDWrDs3iRp,Austin,United States,Dollar,64,NASDAQ,Texas,568,CASY
+JBL,NYSE,13an6aoQuCAVctkNCgjZyyc9WnBbFdPvuC,Macon,United States,Dollar,32,NASDAQ,Georgia,569,UG
+MACQW,NASDAQ,1ELFrrJJxkysbgLfqJgq8TWHokWD1kma3n,Ogden,United States,Dollar,90,NYSE,Utah,570,CLNS^F.CL
+DXB,NYSE,1KUqjNTBMvvnqLngjYG4uwba5BfVSEN5XF,Washington,United States,Dollar,45,NYSE,District of Columbia,571,DDR^K
+MO,NYSE,1AiX8bHtdVcuv8QFPFEDXPJNU92H9YkWVg,Atlanta,United States,Dollar,32,NYSE,Georgia,572,ATW
+VONG,NASDAQ,18yZ5RoteJGmrwb7e8FKdQKu5L7CDiDL4K,Charlotte,United States,Dollar,26,NYSE,North Carolina,573,PRE^F
+TAIT,NASDAQ,144SwBHzXQQq3rayNxZfgyP5m8gKQ2UrAg,Pompano Beach,United States,Dollar,22,NYSE,Florida,574,PAA
+SKYW,NASDAQ,1HeU8uwVqPr7GXjQ2DoV8413Wuqyxg4wEN,Washington,United States,Dollar,89,NASDAQ,District of Columbia,575,GPRO
+PAACW,NASDAQ,1HfPCnPmanXNDzAxNyBGf6B2bNegGfodou,Portland,United States,Dollar,9,NYSE,Oregon,576,FCE.A
+JLS,NYSE,1AwfGgSZw98LtWNCZS3Jt1jAVXdbNjXcu8,Cincinnati,United States,Dollar,38,NASDAQ,Ohio,577,FRBK
+CRMT,NASDAQ,1DErWqbAypz4znFrQhLD1Y3VQtQ4bh7M5H,Denver,United States,Dollar,1,NASDAQ,Colorado,578,CEVA
+CPN,NYSE,1DFTq351cVu3FpTefhQaUMxHwjDhr2h9En,Roanoke,United States,Dollar,82,NASDAQ,Virginia,579,FSFR
+AGNC,NASDAQ,1Jc4h8qANDcJsM6q9Rms2H8wJsyF53Gms1,Los Angeles,United States,Dollar,64,NASDAQ,California,580,JOBS
+AAN,NYSE,1HHckw5RQ1FosFGT8qwSDZyT21ZPAQERsL,Lubbock,United States,Dollar,53,NASDAQ,Texas,581,WSBC
+BOOT,NYSE,1CCEUdAsgq5khcwG2fzr1dqNeazTHB9x79,San Francisco,United States,Dollar,47,NASDAQ,California,582,EVBS
+ALL^C,NYSE,1D7hJejR6mSHVSGgijxHHrkDiir1nDZTFC,Minneapolis,United States,Dollar,41,NASDAQ,Minnesota,583,NERV
+SINO,NASDAQ,17Ek3ZEZssMcTW5GyzoaV4j89hJ2Tpubv5,Phoenix,United States,Dollar,38,NASDAQ,Arizona,584,SOCL
+ESES,NASDAQ,189KnYyjhLKYGmW63Wud1rMgTFxMGe8yy5,New York City,United States,Dollar,24,NASDAQ,New York,585,DVAX
+MPB,NASDAQ,1656kE38FLTY7oxvbK6yqRTy3sdghp4ZE1,Houston,United States,Dollar,31,NYSE,Texas,586,SLD
+AVY,NYSE,1ASnwpcSvtnwZxpENfhzS4uMYSz5dBgeYb,Oklahoma City,United States,Dollar,51,NASDAQ,Oklahoma,587,GTYHU
+HT^C,NYSE,12bP8hqF4FV4CgXwR8j3WJUn476Hmhd5Hb,Springfield,United States,Dollar,67,NASDAQ,Massachusetts,588,TBPH
+UZB,NYSE,1MD9mQSuukJkRZRGhFFhaQ8YfF9p3XGEJR,Tacoma,United States,Dollar,3,NASDAQ,Washington,589,LSBK
+BGE^B,NYSE,1D4R4ZHEUZXYoNrdjyNPpNsVXyfVP4pgqd,Fairbanks,United States,Dollar,30,NASDAQ,Alaska,590,NOVN
+DKS,NYSE,1DowLH5PBcUdBDZXfWjVfz1Bwie5QrRXo1,Hartford,United States,Dollar,69,NYSE,Connecticut,591,MMP
+DGAS,NASDAQ,16shpWqKd5kjazxYHiTo2zeYL121fw67cz,Brooklyn,United States,Dollar,91,NASDAQ,New York,592,IBKCP
+MSDI,NASDAQ,1EewpCj7g4CQB8vxrmKYJhdW58JuBr9TEZ,Houston,United States,Dollar,89,NASDAQ,Texas,593,SYPR
+LINDW,NASDAQ,1LedMfSvqEnmgHXBBDU1pfumXTs7kuJ3B2,Birmingham,United States,Dollar,98,NASDAQ,Alabama,594,PMD
+NNN,NYSE,12x5kKWt94q8dM12mbQL1kVYdkkLBt7Kwi,Savannah,United States,Dollar,53,NYSE,Georgia,595,PBR
+GEOS,NASDAQ,14GWL68us1VbroizEA7nNuwqnwvShJJUYb,Durham,United States,Dollar,61,NASDAQ,North Carolina,596,CZNC
+GDO,NYSE,1PGCpiNJEWrbuXxQeNChXtfNnwmZpMQ6dd,Nashville,United States,Dollar,73,NYSE,Tennessee,597,SDRL
+EE,NYSE,1F1hkPUK1eSTt1b3DHC26gHk4kZa3ynoD4,South Bend,United States,Dollar,43,NASDAQ,Indiana,598,SOHU
+QIWI,NASDAQ,13qS76fegd4ffGsiK2NLvEdUJQgxLRaNLp,Lansing,United States,Dollar,19,NASDAQ,Michigan,599,FNTEW
+PSA^W,NYSE,1L4zNTKycfckYzhYjq5MKbYgDC9gX4bcSR,Buffalo,United States,Dollar,22,NASDAQ,New York,600,PSDV
+EME,NYSE,1A9KRjDCyjN5owXjFF6jvRKprKRF1nak5c,Cedar Rapids,United States,Dollar,83,NASDAQ,Iowa,601,CENTA
+GATX,NYSE,1P6pMHU1y7wnPqU7poQG6dq4KwVADzHzEa,Birmingham,United States,Dollar,63,NYSE,Alabama,602,CLNS^G
+VRNA,NASDAQ,1MNsoCJcJjvF3iEAe1uN92wfi5g2xU8BmC,Rochester,United States,Dollar,31,NYSE,New York,603,MYCC
+MARK,NASDAQ,13f5s1LsyAZDNy9C5NZtBcHEjeAeCSu2pD,New Orleans,United States,Dollar,60,NYSE,Louisiana,604,BFS
+NVIV,NASDAQ,1DPizUqJjP7cyqntkZt5pGFRtanPL2Z3xV,Phoenix,United States,Dollar,88,NYSE,Arizona,605,ORCL
+SPIL,NASDAQ,12SdfQBcJ3Rte5UBhBnordzeDP7EHchDWn,Pittsburgh,United States,Dollar,95,NYSE,Pennsylvania,606,AOI
+SMHI,NYSE,13H2Fqm9Ds6A9iMN995GD5N3GnLmqRRmdG,Salem,United States,Dollar,94,NASDAQ,Oregon,607,SMTX
+SBFG,NASDAQ,1Gqd5BXhdMhBWAsEPnGbkRbV4WWCMn9CZ9,Toledo,United States,Dollar,51,NYSE,Ohio,608,GS^B
+EVHC,NYSE,13occ91nfUf29YY6FUbsTzjUPWwMWTbp9q,Saint Paul,United States,Dollar,74,NASDAQ,Minnesota,609,QADA
+WSO,NYSE,1JwycxXxafGgLBnN9GNZqXFLowz4VgMnWH,Reno,United States,Dollar,87,NYSE,Nevada,610,CEE
+COWN,NASDAQ,1BoCQAepEKFHJewNP6PXWCXu4oSSFwpniS,Fort Wayne,United States,Dollar,33,NASDAQ,Indiana,611,PSDV
+SOXX,NASDAQ,1GzoTyjo5vZZXHuDGyD4XXpiUNcnqwSwx9,Fort Worth,United States,Dollar,3,NYSE,Texas,612,HLT
+HMNY,NASDAQ,1DsVijtPHntKoK8JGqbRiKHRC8t6ZwZnoS,Jacksonville,United States,Dollar,85,NYSE,Florida,613,CL
+UNXL,NASDAQ,1PckWZThGiakxSs8VBy5vhwPnwsj8xraNV,Charleston,United States,Dollar,30,NYSE,West Virginia,614,BRK.B
+CFMS,NASDAQ,1JK1EUfU5nodKU8uAcFp29rigEr4Ppg21V,Roanoke,United States,Dollar,89,NYSE,Virginia,615,GNT
+ECCB,NYSE,1NX53saUHFLReBMDDweYEsmv4kypVDM9hy,Young America,United States,Dollar,42,NASDAQ,Minnesota,616,CNCE
+VZA,NYSE,1CwJcEPijzzTbQRbFC27DbWA2darw6r7io,Cincinnati,United States,Dollar,3,NASDAQ,Ohio,617,IFMK
+GNVC,NASDAQ,12SmECBBcx5SEVpYhLqz6Lua6KWBchYbe1,Athens,United States,Dollar,97,NYSE,Georgia,618,UZB
+ALT,NASDAQ,12ZuRUjrML9y3CmLYF2Crc76tWLRtZio4w,Erie,United States,Dollar,83,NYSE,Pennsylvania,619,MHO
+TMST,NYSE,1D5f35gMvi8GTJJc8PM2P5hcyCc2QMNXov,Sioux City,United States,Dollar,26,NASDAQ,Iowa,620,INVA
+SQNS,NYSE,12pJnqpr6mP4qDjPpLYo1RrYmWjLThbxRf,Greensboro,United States,Dollar,55,NASDAQ,North Carolina,621,FVE
+CIEN,NYSE,14g8dqaHp2tJ8KBRVrdQhxWng5ApqBeZog,Fort Lauderdale,United States,Dollar,38,NYSE,Florida,622,DFT
+FIF,NYSE,15eDFasjGVELkJVA66eREPmVfPhcbJgPix,Evansville,United States,Dollar,44,NYSE,Indiana,623,TOWR
+BBT^E,NYSE,179J4suyjp8K5JtevzT82KbGjFbYDpG38S,Amarillo,United States,Dollar,11,NASDAQ,Texas,624,AMWD
+PSCE,NASDAQ,1PaMkNknXUWZ9Avo6m9b5ZooS4EKZKtxz3,Naples,United States,Dollar,32,NYSE,Florida,625,RL
+DSPG,NASDAQ,16FHwbekTvWFx826rP1BjSe9TDopePyGUz,Escondido,United States,Dollar,35,NASDAQ,California,626,ESXB
+WPG,NYSE,13aYQxcxf9XNcwz4fDpEe5f3e4ezud9CQw,Birmingham,United States,Dollar,16,NYSE,Alabama,627,DEI
+NHLD,NASDAQ,1LCFyjgmVvMazAJ2xxaaip63RfJo871yg3,Pensacola,United States,Dollar,73,NYSE,Florida,628,LDF
+SOL,NYSE,1P99Cj56hYWLnaXhqUL2PCFRX1rndyeaz5,Jersey City,United States,Dollar,22,NYSE,New Jersey,629,NWHM
+FLY,NYSE,1GYuN1LyZuXq2P2NiBb8jBrPi9KSu8mMH,Charlotte,United States,Dollar,80,NASDAQ,North Carolina,630,DFVS
+HABT,NASDAQ,1KsjVW7P8YnzYwM2L42d2vaF16x7XuLobb,West Palm Beach,United States,Dollar,69,NASDAQ,Florida,631,ABY
+HMST,NASDAQ,17t5PqW7G91yGD5pCUUD4aUtAC3Q8Z68Rr,Memphis,United States,Dollar,83,NYSE,Tennessee,632,ETW
+STX,NASDAQ,12KXbppBeCUXzDPQ6FPH6Ppk2Kewa5GvEk,Ashburn,United States,Dollar,74,NASDAQ,Virginia,633,PPHMP
+LOR,NYSE,1TPRJbHCQz37pPhGqfUufDj1VHiKfhcnG,Indianapolis,United States,Dollar,100,NASDAQ,Indiana,634,XGTI
+FTNT,NASDAQ,14BCB71FypN9JCQjR9Posx32fZHqMXba68,Norwalk,United States,Dollar,70,NYSE,Connecticut,635,SUI
+NYRT,NYSE,1EG9YBdUUnUxjcH7hZMFZCz4qSPpKVx5Ap,Cincinnati,United States,Dollar,54,NYSE,Ohio,636,ATW
+OSBCP,NASDAQ,1AsSvbDQRZs7ndcMGtwngccRrsxpLAcrN7,Pasadena,United States,Dollar,59,NYSE,California,637,RSO
+CXW,NYSE,16XfJNQSJWpTDsqg15c8VUW4AixqTJajWf,West Palm Beach,United States,Dollar,83,NYSE,Florida,638,LNT
+ATHX,NASDAQ,12hJymH5WM4iX7TX7bA6LT7gaUL5mExzmL,Rockford,United States,Dollar,83,NASDAQ,Illinois,639,MEIP
+FELE,NASDAQ,1D5KSdTnXgD6pXSmVg4meQYAKDVWp4j5oQ,Roanoke,United States,Dollar,58,NYSE,Virginia,640,HHS
+ALL^D,NYSE,18ja82CpP61RzrK6HdiqyUpEJrwgufwkWz,Charlotte,United States,Dollar,2,NASDAQ,North Carolina,641,FEIM
+MGLN,NASDAQ,1CyinBzm8DAgR6mQotfMweca9FU97JHEbB,El Paso,United States,Dollar,97,NYSE,Texas,642,NM
+DVA,NYSE,1KWrXzFxiCtQaLV5xxVi8Pu7uUJn4qgnBX,Macon,United States,Dollar,84,NASDAQ,Georgia,643,SKYS
+GNMX,NASDAQ,17YMa7cJyeSiFZLPCYGxWWFYQ1pZyR2JEh,Olympia,United States,Dollar,14,NASDAQ,Washington,644,MTP
+RMR,NASDAQ,1MKZ6WWpBhDoiLu3fJSih3L1sxLk4j6scV,Philadelphia,United States,Dollar,81,NASDAQ,Pennsylvania,645,BCOR
+BMRA,NASDAQ,18Xczz5gttqaPGanccNRsNTdDbWpGTVnPA,Saint Petersburg,United States,Dollar,87,NYSE,Florida,646,DNOW
+ARGX,NASDAQ,14MiJGzGiqUAFuEoqB8BYqmbZGhub3KSdM,Tampa,United States,Dollar,6,NASDAQ,Florida,647,GALE
+PERY,NASDAQ,1EjzLuFqnS7Qus7Zijeaz1p9YKgmSPfLvp,Minneapolis,United States,Dollar,52,NASDAQ,Minnesota,648,CYBE
+KNL,NYSE,1Cn4spLnTiCBAca8qgmrhsGTUy21756PL9,Amarillo,United States,Dollar,81,NASDAQ,Texas,649,CXSE
+DO,NYSE,1KZAr63cCfkjeHoL1qQViLwDHNydHAtcHm,Topeka,United States,Dollar,33,NYSE,Kansas,650,STAR^I
+FTV,NYSE,1H1UTBEEh1bH4w3UNRb1y9extA6e3sZAuo,Philadelphia,United States,Dollar,62,NASDAQ,Pennsylvania,651,BOFI
+SRDX,NASDAQ,1BB6tAiGcHqxGNV7GhSgTMjhohc6xZUbc2,Reno,United States,Dollar,12,NASDAQ,Nevada,652,ELECW
+WSTL,NASDAQ,1NYLjo5ZBU7cFHW3gmi5E7ptv9HK1UFAiM,Albany,United States,Dollar,22,NYSE,New York,653,SMM
+WHLRD,NASDAQ,1K4uzoRZr4vgVwnTxxDdeA4KJ2kBRPso1v,Milwaukee,United States,Dollar,20,NYSE,Wisconsin,654,LEJU
+FGEN,NASDAQ,1GBfGgqRDAy6Yv6DpzfAScSEMZL51HMPAH,Washington,United States,Dollar,81,NASDAQ,District of Columbia,655,ARCB
+K,NYSE,16iGts9gTX6WDcqXb5QUUgAtL7187D8piw,Carol Stream,United States,Dollar,26,NYSE,Illinois,656,NBD
+INBK,NASDAQ,1AKHU8AB3JDr8MoTHLdKhntsLEY4ncUjbL,Dallas,United States,Dollar,95,NASDAQ,Texas,657,MIND
+TOO,NYSE,1BAFp9VsR9xc39hjsASfXnjbZx8P1HAuQb,Sacramento,United States,Dollar,24,NYSE,California,658,NEE^C
+DUKH,NYSE,1BYvq4BYZV6LhUpYZbg7VfBAjTEeohZvkE,Virginia Beach,United States,Dollar,74,NYSE,Virginia,659,STZ.B
+ARMK,NYSE,1Augry65WNEuyJAyeGe86PMNTtg4hEH5vf,Birmingham,United States,Dollar,56,NYSE,Alabama,660,ANF
+WUBA,NYSE,1y9zA22iaXsx6iTMN5JVRQcu8oU93mfTC,El Paso,United States,Dollar,54,NASDAQ,Texas,661,RILYZ
+SGU,NYSE,1GHYcqm6fkWq8gcB4cRocyGHNPcqWVA2fQ,New Orleans,United States,Dollar,4,NASDAQ,Louisiana,662,PBMD
+FRA,NYSE,1AZ9zh6qzNP7BBd3E76ELLZTctmVk26B8D,San Diego,United States,Dollar,67,NYSE,California,663,RRTS
+OZM,NYSE,1ANHxHeKyMDF85wt5EmYkyktW3Qb5h1mGK,Tucson,United States,Dollar,24,NYSE,Arizona,664,PSA^B
+CNOB,NASDAQ,1BpwHun4M9GqotLb1Cxc9KGn6KUz8WyJPM,North Hollywood,United States,Dollar,99,NASDAQ,California,665,UAE
+PGC,NASDAQ,1Dx8Pibd5GNCB2TxP1135wRMXwGFyUZLrV,Madison,United States,Dollar,7,NYSE,Wisconsin,666,PM
+AGM,NYSE,1FfEgCsCVsBwkWuMzPYnd1Rt1fwbK3sjth,Syracuse,United States,Dollar,83,NASDAQ,New York,667,BLVD
+DTYS,NASDAQ,1PfMjLgR48qWk36YFYwp9BvRPFhL3tkKHg,Saint Petersburg,United States,Dollar,42,NYSE,Florida,668,CAG
+VMW,NYSE,1PueSFBsrKw1DfLYPxYF8D7DfPndEF9JYK,Sacramento,United States,Dollar,93,NASDAQ,California,669,COHR
+GMLP,NASDAQ,18XYVnWDVE99xsfx7QjvrTGyaApNnDtkJq,Atlanta,United States,Dollar,68,NYSE,Georgia,670,KWN
+ARR^B,NYSE,1EUZkFmUrXgW1P8jvHjuKWLmshFDYopxxh,Dallas,United States,Dollar,65,NYSE,Texas,671,BOH
+FINL,NASDAQ,12FbUQmVRGCXWTPfV64K17xypD48jVdDWW,Chattanooga,United States,Dollar,100,NASDAQ,Tennessee,672,NXEOU
+ESE,NYSE,1GjPix6sHCYpud9nKke9A148WxY3jPBS61,Newark,United States,Dollar,9,NYSE,New Jersey,673,WG
+ECCZ,NYSE,185YyJj3JoV2yDAQQ8QpmPqyxiDcHCKyV,Miami,United States,Dollar,58,NASDAQ,Florida,674,CEMI
+ERF,NYSE,12EYbJEyadcndZawvoeeskQqy7jttw1xCD,Fort Lauderdale,United States,Dollar,27,NASDAQ,Florida,675,SSKN
+MHN,NYSE,13mqkQeShsa8L4mgsZmPy6HECqK2v6zsZb,Sacramento,United States,Dollar,2,NASDAQ,California,676,ARLZ
+UFS,NYSE,12fiqgEWoqqne6goeG2mNvX2Mhy772k3he,Henderson,United States,Dollar,41,NASDAQ,Nevada,677,FLWS
+EGAN,NASDAQ,1Ctx743NoQsNK3wcRNP7kXEdT4J6fzaQaJ,San Antonio,United States,Dollar,12,NASDAQ,Texas,678,LOPE
+ULTI,NASDAQ,1KDUDK1WNpNBTajPj2fG6RBVwnbWVwABQz,Concord,United States,Dollar,100,NYSE,California,679,SCG
+FIVN,NASDAQ,1GXKgqzt6bnbhs2icPDtgAqdhLbzYu9jYf,Virginia Beach,United States,Dollar,89,NYSE,Virginia,680,DUK
+KNOP,NYSE,1BJkZrP27mCYExSpTyoRMpEfMipG3GQaFa,Port Charlotte,United States,Dollar,73,NASDAQ,Florida,681,LABL
+PRE^I,NYSE,1DiNsa8QbpaDN6c1eyFDoo3uMsSsaGHdWz,Springfield,United States,Dollar,16,NASDAQ,Virginia,682,ESCA
+SOHU,NASDAQ,18XCvUMCdqXqRxGF9mYqzcCrW72cm8vSBy,Lansing,United States,Dollar,61,NYSE,Michigan,683,SDLP
+GMZ,NYSE,1LCEDjQj823Gr1YiN6dE9f6B56dovn1StY,Minneapolis,United States,Dollar,56,NASDAQ,Minnesota,684,GTYHU
+FTCS,NASDAQ,1HJ1eFpyDxUuLbzyR3WN4iEbiTAeS1CbpG,Oakland,United States,Dollar,88,NYSE,California,685,GTN.A
+SLF,NYSE,18ZiZob6PTiy6HVnTjbopSKkUuo5Vef68k,Corpus Christi,United States,Dollar,61,NASDAQ,Texas,686,PROV
+WSO.B,NYSE,1JV69Fw2aR2jGynia2JVVss5xnqKUs6quU,Baltimore,United States,Dollar,80,NASDAQ,Maryland,687,SHIPW
+CCK,NYSE,19viqF6LHmnoPpmDVgqdgY3E72nC3MbS2p,Katy,United States,Dollar,69,NYSE,Texas,688,GPT
+NTES,NASDAQ,1NE2fySvE1nknunEQHFsJp8M9XwEfs62P7,Portsmouth,United States,Dollar,8,NYSE,New Hampshire,689,AGRO
+RBS^H,NYSE,19XaaEfMLA7bYttzCKKF8dnceRg28P6BfX,Lake Worth,United States,Dollar,27,NASDAQ,Florida,690,PATK
+GS^J,NYSE,1CxwJztq9BzA43XHnQftdp61J1ep28KUgC,San Bernardino,United States,Dollar,39,NYSE,California,691,PHM
+LMIA,NASDAQ,1NJ7hwgxRwvArzUCz8UoY7Nc3uTmcekyjS,Redwood City,United States,Dollar,24,NASDAQ,California,692,CEZ
+PYDS,NASDAQ,1G6Y9DHynjPcTibkhDwqdx1SLzRnvQG4ev,Beaufort,United States,Dollar,57,NYSE,South Carolina,693,DATA
+UNH,NYSE,1FbBox6X6ocFwg3PK28v4b5sziH2nSkLSJ,Monticello,United States,Dollar,7,NASDAQ,Minnesota,694,EA
+LPT,NYSE,17sX1X19Zer43FE5YuHQTo3ExwmdYfoz4p,Durham,United States,Dollar,39,NASDAQ,North Carolina,695,LMOS
+MDWD,NASDAQ,112VBbGetUggxoCFrUbz5fuLk8jiwmC1Q8,Houston,United States,Dollar,56,NYSE,Texas,696,EMP
+MSCI,NYSE,1AQAJ1CruLaSfYzQDi9VM7FRfY2mQauofb,Fort Worth,United States,Dollar,7,NASDAQ,Texas,697,GPIA
+TEF,NYSE,195bv88CN1WXJSu7jvhp79EGs2r2o1t8op,Woburn,United States,Dollar,75,NYSE,Massachusetts,698,NAV
+CRESY,NASDAQ,1Ny4jWvm32dm8vh7JL97JC7HuY2da8WY7j,Riverside,United States,Dollar,58,NYSE,California,699,MH^A
+RDC,NYSE,1NFA6VPk2V17RyrhSWXocXnju9iVoXney3,San Diego,United States,Dollar,19,NYSE,California,700,GWW
+TPH,NYSE,14QJFwhjb9tft3ku14hugrKgdg2uVQD3MW,New York City,United States,Dollar,43,NASDAQ,New York,701,PBHC
+DGRE,NASDAQ,1FZge44KKc6TSRvjUgUYBkbX9W5kHyUmKH,Springfield,United States,Dollar,26,NASDAQ,Illinois,702,GIGA
+SLTB,NYSE,18PbHYAnZomSJErF3dmZjYBBiZvhpxPdU2,Brooklyn,United States,Dollar,40,NYSE,New York,703,CLNS^I
+PSTG,NYSE,1BVL9gNPtY6dZqWwMiRNbYrje2ub5zB8e5,Saint Petersburg,United States,Dollar,32,NYSE,Florida,704,NGS
+NS^A,NYSE,1zcqSifCd1yeLSJtG66kkVeH9FeAqYMeH,Tulsa,United States,Dollar,40,NASDAQ,Oklahoma,705,FLN
+GPIA,NASDAQ,183PXHd21td4hiTV3AvzjPqsmrhXPskdoF,Saint Paul,United States,Dollar,4,NASDAQ,Minnesota,706,HELE
+SQM,NYSE,1G78GcHjk2sC4ZdnMYkq1oRRtUBrgZqcwe,Petaluma,United States,Dollar,53,NASDAQ,California,707,CHFS
+UDBI,NASDAQ,1KNQtoRY5jafbJQ1pvuwQgWvtYMmpyCgHV,Denver,United States,Dollar,62,NASDAQ,Colorado,708,NUROW
+MSBI,NASDAQ,1BJEPSNVWhR7mkQ89Zq7DhoZ5asHhBJ3qA,North Las Vegas,United States,Dollar,53,NYSE,Nevada,709,SFR
+CPN,NYSE,17wTW8sHnKLjTgydcGxriUKnR7KxwiqZiH,Colorado Springs,United States,Dollar,55,NYSE,Colorado,710,JPM^A
+AHP^B,NYSE,16adwzwgrpbJMFqkjrDS1xLVHNxfw3bE3u,San Jose,United States,Dollar,15,NASDAQ,California,711,PYPL
+CMLS,NASDAQ,1MTf4X8HTpA6BuBVHfyYsQbCdd6gRo3Jwm,Charlotte,United States,Dollar,52,NYSE,North Carolina,712,HVT.A
+CWT,NYSE,1652VUxevxYsj8JgawKs1EN3biAunPZmTT,Albany,United States,Dollar,46,NYSE,New York,713,PRE^F
+PLYAW,NASDAQ,18sLv7eHQho31T5EvHXLXVepFztrXfv19Z,Washington,United States,Dollar,73,NASDAQ,District of Columbia,714,EAGLU
+PIO,NASDAQ,14amZv57Shq1fTFqxu6VBWVFpyAwmgptBA,Denver,United States,Dollar,40,NASDAQ,Colorado,715,USATP
+AWP,NYSE,18YbaLNXwNfSech8qYRFmBNwvidXXCYZ2n,Winston Salem,United States,Dollar,45,NYSE,North Carolina,716,BHVN
+PML,NYSE,19CVzwrWdFkqnn3yb29o6x77mgNMy2d74s,Houston,United States,Dollar,81,NYSE,Texas,717,BDX
+PSCU,NASDAQ,1Pbgnx7MaBasCGsYFd62kZxSjsXKms283k,Atlanta,United States,Dollar,5,NASDAQ,Georgia,718,WNEB
+BHVN,NYSE,16wHuXN2GUuHQZvwfTcJunSzowsfwB2VUP,Fort Wayne,United States,Dollar,96,NASDAQ,Indiana,719,HSGX
+PERF,NASDAQ,18dupUbiWQEKj9A8Ly4BrPXbanT4DKQAFq,Los Angeles,United States,Dollar,13,NYSE,California,720,FAF
+LIVN,NASDAQ,1Afuziz6aFBSbsYQu3VTX6DCcV6FAht3MP,Tulsa,United States,Dollar,37,NASDAQ,Oklahoma,721,VONG
+DSXN,NYSE,1T8AWVXoQaT5FWfKGPYSPhWT5dQwX9mKf,Paterson,United States,Dollar,89,NASDAQ,New Jersey,722,MARPS
+BCEI,NYSE,1ENd3zu6o6YsijHdwQJTLNfVE9PhzBG6qM,Nashville,United States,Dollar,37,NASDAQ,Tennessee,723,GBLIZ
+MNTX,NASDAQ,14nZYe4TdZ1E3HGXJrL4SifE6ezoxjPx2L,West Palm Beach,United States,Dollar,42,NYSE,Florida,724,ABT
+TTWO,NASDAQ,13H7PftTyn4PTfrNphXYbS3XK28iSZbi7x,San Antonio,United States,Dollar,51,NASDAQ,Texas,725,KTOVW
+ATOM,NASDAQ,16u1UZftYnuG2Pss4eZ8dAe6g17XYo76kx,Indianapolis,United States,Dollar,6,NYSE,Indiana,726,BJZ
+LWAY,NASDAQ,1NdLfpJ5Chvi7x8fG9Ven15Wej8LUty9ky,Kansas City,United States,Dollar,21,NASDAQ,Missouri,727,ANCX
+JKHY,NASDAQ,1NVhUheMkXm2VvNJbZgxvNYXjWyFEi74ZA,Saint Louis,United States,Dollar,48,NYSE,Missouri,728,IVZ
+HGH,NYSE,1Hacggx7RenLKCea2dWhLyrmtybme245bb,El Paso,United States,Dollar,34,NASDAQ,Texas,729,FHK
+CCC,NYSE,1HCccNmQzCmaZ9VhQtSLCXU4M92HbSbhhG,Ocala,United States,Dollar,51,NASDAQ,Florida,730,AMTX
+PEG,NYSE,1KWPijUjPFxByw47dYX5avphoscR9m8PKf,Trenton,United States,Dollar,28,NYSE,New Jersey,731,DEX
+SOR,NYSE,12cCGb6E4nFoJRNLohmyj1VfzpmQePoC1u,Gaithersburg,United States,Dollar,42,NASDAQ,Maryland,732,MARPS
+OXFD,NASDAQ,165oSJa2xBZsEyzLGMdXWJncbPECNXjQFi,Sioux Falls,United States,Dollar,63,NASDAQ,South Dakota,733,COST
+TECH,NASDAQ,1Eh1N73gCzMNRcrGcLWT7WHCnyePhrnTnG,Nashville,United States,Dollar,52,NASDAQ,Tennessee,734,LMRKP
+JMBA,NASDAQ,1DwVhT7XgBup1aHG2am7pfHtJfA8ppD5Qw,Fredericksburg,United States,Dollar,61,NYSE,Virginia,735,PVG
+LGCYO,NASDAQ,14BeqkJyBfxmuMQSH6rDx4csYgUBuYqjGy,Tacoma,United States,Dollar,99,NASDAQ,Washington,736,PHMD
+GPT^A,NYSE,1EgQuUtym2ukUUQ51aubigg6EJFoxQdWLB,Gainesville,United States,Dollar,92,NYSE,Florida,737,BPL
+OMED,NASDAQ,176kFcszTdKp7JhWermRd1xjLUFxhCMZPD,Arlington,United States,Dollar,46,NASDAQ,Texas,738,GURE
+STI.WS.A,NYSE,1EmS9qhwecDv9GzqA37omqr5pH8yXuxAK,Fort Wayne,United States,Dollar,46,NYSE,Indiana,739,NSC
+DYN^A,NYSE,1w8kgoRGnEaCvgR7MNr1En72nUiKa1che,Boca Raton,United States,Dollar,56,NYSE,Florida,740,NM^H
+NYCB,NYSE,1M4C2B2bsJQshhNoebzzVjyBpL6ocydCkH,Honolulu,United States,Dollar,54,NASDAQ,Hawaii,741,GT
+FCFS,NYSE,1Bd9RZhjeztUndv8t1hDXuTSZEhPUMYjeK,Phoenix,United States,Dollar,92,NYSE,Arizona,742,ELP
+GSBC,NASDAQ,1BpZLLbRE3WyGR3G7LqYXVje5YUfGYWoqG,Columbus,United States,Dollar,6,NASDAQ,Georgia,743,CSB
+JILL,NYSE,1JG7fa18qfSUZL3Lt6sBBwtUhdWsYqph1Q,Greenville,United States,Dollar,87,NYSE,South Carolina,744,WR
+ADXS,NASDAQ,1LyKY9YBvw36ixaZ6wsnmXZzsLNcBtAMXb,Kansas City,United States,Dollar,90,NASDAQ,Missouri,745,IBKCO
+AGIO,NASDAQ,13AxEeLfLN5FroBn1DJsHr6Lkv25HArFBM,Spokane,United States,Dollar,17,NYSE,Washington,746,EGO
+MOTAW,NASDAQ,1AZALZBHiQFAzKtwCAyucLt6pPSe4sa2jQ,Toledo,United States,Dollar,2,NYSE,Ohio,747,ICL
+SBOW,NYSE,1N2H6Lrq4ryCGvzFk51bQSQTKfuhk82qSP,Madison,United States,Dollar,23,NASDAQ,Wisconsin,748,IESC
+PSTG,NYSE,13tRA5F19K1D6JV4c8nSnN51NT22qEJSuE,Pittsburgh,United States,Dollar,63,NASDAQ,Pennsylvania,749,NDLS
+QCRH,NASDAQ,167GCFxgziYym6jKmE6Mua3BH3XkVJYHsC,Salt Lake City,United States,Dollar,15,NASDAQ,Utah,750,NWFL
+GVA,NYSE,1LtJuiS1kky27v4Q8pJBVpusKDBc7EyqGV,Greensboro,United States,Dollar,15,NYSE,North Carolina,751,KRC
+AFC,NYSE,1K8moXHfCvJpDk2U6TNR5ZfchsqgofyX9e,New Haven,United States,Dollar,94,NASDAQ,Connecticut,752,AMDA
+NTC,NYSE,1H2iVG2djMtaQRqSUpCnc2W18MXoMEyTW7,Orlando,United States,Dollar,39,NASDAQ,Florida,753,CLRBW
+BBT^E,NYSE,1ACbCrukNoRxMFf4tVL3ARjbKSTd9iVcyW,Lincoln,United States,Dollar,68,NYSE,Nebraska,754,OPP
+CTRP,NASDAQ,1FTV457Q1yZBb3RZBuT7d9R9i8XLsXrkDY,Long Beach,United States,Dollar,29,NYSE,California,755,BWA
+SON,NYSE,17yaa9kYWU7qmLX1opTKJmYkruCcNQUfYR,Fresno,United States,Dollar,81,NYSE,California,756,HMC
+CGG,NYSE,13iBzeExKAqen1j6NkPLu8emQqgQeZbp5W,Chicago,United States,Dollar,87,NYSE,Illinois,757,BRX
+VRSN,NASDAQ,12iCb3F1J54gFS2j2yZVvo24oDmXnVV1ce,York,United States,Dollar,64,NASDAQ,Pennsylvania,758,CDEV
+BKK,NYSE,13e8A5MDuBEBwR5MRkDMgpp8PtAcPTCqGb,Fort Worth,United States,Dollar,26,NASDAQ,Texas,759,CHW
+COWN,NASDAQ,1EwQc9Xy6zywhmHv5XWDMZU5TFFHDSFmi9,Chicago,United States,Dollar,68,NASDAQ,Illinois,760,LMAT
+COF^P,NYSE,1MLgY1S8CDUMX2EK5bM8APkBEXXyudyuoR,Huntsville,United States,Dollar,1,NYSE,Alabama,761,RJF
+GIII,NASDAQ,1MGzKHQ8d2vxF2mmMrHCdYgt2FT6NEY4Zq,Kansas City,United States,Dollar,60,NYSE,Missouri,762,CAJ
+RIGL,NASDAQ,18HTU3wNDyh6SBtP4G3bM8PZwxt889nxZL,Oklahoma City,United States,Dollar,90,NYSE,Oklahoma,763,SIX
+CLRB,NASDAQ,1LNrX5VaN7C8YnwkiqyDQ1p2j748h2GAA7,Orlando,United States,Dollar,14,NYSE,Florida,764,TDC
+LBRDA,NASDAQ,14uQfWXwRa9zt63crczrHpeehkqFTrhkgR,Raleigh,United States,Dollar,83,NASDAQ,North Carolina,765,BLVD
+SCS,NYSE,1H48nBytFx5d8acFfveKLv58R18McxNbz5,Montgomery,United States,Dollar,2,NASDAQ,Alabama,766,AFAM
+COMT,NASDAQ,1GsAtFdGUDWWhrsbV7a9nFbFkmWhWPz2xg,Riverside,United States,Dollar,10,NYSE,California,767,VSI
+EQT,NYSE,16UxgV8szE8EnGfMtW1w2YmzFtjbWpVqfp,Houston,United States,Dollar,26,NASDAQ,Texas,768,KPTI
+SOR,NYSE,1MVqt9GVrFZBGVQzJsqt7oEXYcUji2xZBt,Pasadena,United States,Dollar,95,NASDAQ,California,769,GTLS
+CUR,NASDAQ,15B4XYCfm7kLCM7CyiPMnjQGvYqrxJCMaD,Fort Lauderdale,United States,Dollar,61,NASDAQ,Florida,770,AMMA
+OAS,NYSE,1MwULCg7wW9AYYZ8BueqYfWC32TPk5NHxz,Reno,United States,Dollar,98,NYSE,Nevada,771,ATW
+VTVT,NASDAQ,1GSCBr6qN5AKhrGTZbGoW9dKZg8oUmNAsw,Washington,United States,Dollar,1,NASDAQ,District of Columbia,772,FORD
+BKCC,NASDAQ,15b1mEwbSKCJFqgEXNCe124cSRn5VdZqXA,Houston,United States,Dollar,79,NASDAQ,Texas,773,ACWI
+MDIV,NASDAQ,12gUUV3hfLVp2HSUkV6siBFcKiUH1qU4D1,Saint Louis,United States,Dollar,94,NASDAQ,Missouri,774,GTHX
+ISBC,NASDAQ,1GVyE1qTeVTcdwKpUFmtZiMEHcGmsP2HbU,Baltimore,United States,Dollar,66,NYSE,Maryland,775,CXW
+TEGP,NYSE,1FTeZXztuFM2PNEfkL6ACvVFScwMtVp17P,Washington,United States,Dollar,96,NASDAQ,District of Columbia,776,NXPI
+AES^C.CL,NYSE,1CoPnZbg2CoYD3A9hXJtcFz7T5kR5vE4KF,Los Angeles,United States,Dollar,75,NASDAQ,California,777,PETS
+CLDX,NASDAQ,1HNDQd2YNhK2Vr8g6FqAGKH3uTKUq2AKhz,Lake Charles,United States,Dollar,66,NASDAQ,Louisiana,778,CERC
+VBND,NASDAQ,18Qo69AynWnYrf8poCKHhPZzURdmLRQKKX,San Francisco,United States,Dollar,93,NYSE,California,779,USG
+DFT^C,NYSE,17TGrhLQkxHEvujy4ALPao1Ms2Hr4ki6Bs,Cincinnati,United States,Dollar,31,NYSE,Ohio,780,VHI
+ORAN,NYSE,15amjdqtbcDPNyTVbUjjowUEtCPneCVACT,San Francisco,United States,Dollar,76,NYSE,California,781,XKE
+ULH,NASDAQ,14621C1N55gPj6tphDE3Cicq3MvCV3q7xV,Minneapolis,United States,Dollar,40,NYSE,Minnesota,782,CYH
+BRX,NYSE,1EAzxEppTot5MpUUGpuTsNjyxDPkKZtD2t,Muskegon,United States,Dollar,84,NASDAQ,Michigan,783,LBTYK
+AVAV,NASDAQ,1NnCujkm6FxvJtVtJ5rFj61crWcNbhN5Pu,Charlotte,United States,Dollar,60,NASDAQ,North Carolina,784,IRBT
+SMBK,NASDAQ,1Nmc8y5uRKQnLcKg2w2CZyMquttyty3BTC,Cincinnati,United States,Dollar,48,NYSE,Ohio,785,RFT
+LRN,NYSE,15YUQw64ai6qvMuxZHxL8bGopbNUoHAcaw,Amarillo,United States,Dollar,41,NASDAQ,Texas,786,PSET
+ASTE,NASDAQ,1GsmCv5o2NwghfKnMHMayGN2MqjfA6NQSU,Springfield,United States,Dollar,97,NASDAQ,Illinois,787,PDP
+FFC,NYSE,1ogMRyxucQX5tNXw9TKUNtqZrXkFRPcMt,San Francisco,United States,Dollar,51,NASDAQ,California,788,HDS
+STKS,NASDAQ,1QKbyJupYCSg4vA47aG7TPzCYAdbfUsknB,Los Angeles,United States,Dollar,76,NASDAQ,California,789,ESXB
+RLJE,NASDAQ,19DFTivApsENwfhJZvAf4EDysnCeTMYvkq,El Paso,United States,Dollar,25,NASDAQ,Texas,790,ENPH
+VIIX,NASDAQ,1MEHw17a7W7X4foTb1zLoS4PFobEDdmaFN,El Paso,United States,Dollar,21,NASDAQ,Texas,791,VIGI
+SIGI,NASDAQ,1EK6fTiXgtzk1DQjw2n37miPHkoV4qvXTC,Fort Lauderdale,United States,Dollar,41,NYSE,Florida,792,ANW
+MSGN,NYSE,1DTvHtE2sL9Bz4DVvRTGp2GxmL9LKv6ozp,Detroit,United States,Dollar,98,NASDAQ,Michigan,793,ESBK
+KBLMU,NASDAQ,15pHgJZ6y1XpgeFkwvTwQXR5b9qN9K1br7,Saint Louis,United States,Dollar,39,NASDAQ,Missouri,794,NXEO
+RYN,NYSE,1N34jgJgtDGV9VAZ2inASD3m84dGSBoyTF,Cincinnati,United States,Dollar,57,NASDAQ,Ohio,795,NEO
+KAP,NYSE,12hM9WYaZvYgJV9SvgiT31wctXndqJrVqJ,Denver,United States,Dollar,62,NASDAQ,Colorado,796,KOSS
+VICR,NASDAQ,1HrAw7uXW8gExRJ1xkDLmGCqWjjqw3qnv8,Orlando,United States,Dollar,5,NYSE,Florida,797,MCRN
+SCVL,NASDAQ,1CBBQdf4LQ3CeYQNdgF7p1ZP6pFRFcLaEH,Washington,United States,Dollar,73,NYSE,District of Columbia,798,PE
+ACSF,NASDAQ,1BLvY2PxT88H1NaVHgSBW5nL6WcxReb4HY,Buffalo,United States,Dollar,34,NYSE,New York,799,ZB^G
+TRUE,NASDAQ,13Lvpc5F7n21NHHZB2XJdNQ2RNv2GyaBfi,Midland,United States,Dollar,82,NASDAQ,Texas,800,FCSC
+TMUS,NASDAQ,1G8RNwk4XCzyGydrbDFubSQmJ8vSvy53y6,Houston,United States,Dollar,30,NYSE,Texas,801,TX
+SMG,NYSE,1GxH7aY1pXXQkGhu6zywjGeniKgiGb6K5F,Pensacola,United States,Dollar,47,NASDAQ,Florida,802,CDOR
+ICON,NASDAQ,1G8eqA5xLNzSePXry6CQynDesfsPjeqwma,Sioux Falls,United States,Dollar,59,NYSE,South Dakota,803,BRK.A
+GRC,NYSE,19nJQ691ctWBP9F3vAwTnGWCEMVb7SWCeB,Omaha,United States,Dollar,6,NASDAQ,Nebraska,804,SHOR
+EROS,NYSE,17scZBjteJVa4RU8XJtaNeEemC669HWUWr,Maple Plain,United States,Dollar,21,NASDAQ,Minnesota,805,INFO
+DAL,NYSE,1MCufpDceJcChwQU59zJ53Kw2WMYrti83N,Louisville,United States,Dollar,7,NYSE,Kentucky,806,NHI
+THST,NASDAQ,1Hb2vqTVGAboGvqZpFDg6ubNc8HU474FqJ,Montgomery,United States,Dollar,94,NASDAQ,Alabama,807,FHK
+CIM^B,NYSE,1AyauvU9yhXUWc2EwdDAvgseLYmc1h1zxJ,Saint Louis,United States,Dollar,86,NASDAQ,Missouri,808,BNFT
+BASI,NASDAQ,18VQTqQf68y5iEiN9qHuAVY1LNvQXwqEYE,San Bernardino,United States,Dollar,85,NYSE,California,809,CCL
+REG,NYSE,12C1Sqd15xWpx9SjPo5Qvbq9x5ffZe8joB,Louisville,United States,Dollar,77,NASDAQ,Kentucky,810,PTCT
+RAS^B,NYSE,14sWZ5roP8neKkce6r8xqyfn5TxWMbSMWv,Sacramento,United States,Dollar,89,NYSE,California,811,CAH
+WRK,NYSE,1P6S4KW7wr2EHZ7mApBBknsDTnFXiboiS4,Grand Junction,United States,Dollar,45,NYSE,Colorado,812,CLNS
+ORBC,NASDAQ,18eGZF8JvCZmmhdieS227dG1cQZuHtCMdn,Toledo,United States,Dollar,33,NASDAQ,Ohio,813,ASCMA
+AGIO,NASDAQ,1BcvDQaPm7U7BE9YPnikZWTSFS66HJ43zB,Raleigh,United States,Dollar,53,NASDAQ,North Carolina,814,RTIX
+AMP,NYSE,1EHeZdPjfULhmgFhy5fRJv4LY5CnJxTNYk,Asheville,United States,Dollar,2,NYSE,North Carolina,815,IGD
+FANG,NASDAQ,149Qcrryx7QpxnmPenuobGocrdcpGs273p,Miami,United States,Dollar,3,NYSE,Florida,816,KT
+DB,NYSE,1CabviVni5VErvnTxnNgKjoPtwDNouqfmN,Lexington,United States,Dollar,58,NYSE,Kentucky,817,GTS
+SCS,NYSE,18i6heyfGd93PK2iNkDr8n6cL5HEUQVrYE,Atlanta,United States,Dollar,97,NYSE,Georgia,818,STI.WS.A
+TANH,NASDAQ,13RFdcjR7HBQp5T4NYcxggudBPmkJ3rHVz,Tuscaloosa,United States,Dollar,26,NYSE,Alabama,819,NUV
+TZOO,NASDAQ,1ij6dLbG1wz51s8iuZvV1kynhxJcP59xN,Rochester,United States,Dollar,37,NASDAQ,New York,820,AXGN
+CAB,NYSE,17rRQ2e6vvBCMyoAmbEbBSYehBZaoRUCLM,Charleston,United States,Dollar,56,NYSE,West Virginia,821,PZC
+IHG,NYSE,1BaWNNH4Jk9q427WgqB4zr4wwKVchKAwD9,Jackson,United States,Dollar,66,NASDAQ,Tennessee,822,STKL
+UA,NYSE,1LRw79MiK7FhFkiSzwGv11MwuUQnQSG4zc,Tucson,United States,Dollar,67,NASDAQ,Arizona,823,PLPC
+MDR,NYSE,1LYnCvURChzaDzDw1xGKopwWCvbRp1otwd,Washington,United States,Dollar,25,NASDAQ,District of Columbia,824,XOMA
+BAC^A,NYSE,1BgvJKBnffcncKxTk6u4Ce15gjzorZ131D,Miami,United States,Dollar,21,NYSE,Florida,825,ETN
+CGI,NYSE,15KiHuREWK5eCRFMRLv91WaYUb71dbd1xv,Sacramento,United States,Dollar,54,NASDAQ,California,826,COMM
+UEPS,NASDAQ,1DYhVJyFSjV1BVQqUcb82aoWGNvuYPucXL,Oxnard,United States,Dollar,55,NYSE,California,827,HSC
+OPGN,NASDAQ,174FvoYqAzSLYxvHTtadNfyJ8ozjXKQ3eG,Tacoma,United States,Dollar,24,NYSE,Washington,828,MS^E
+MATX,NYSE,15JpztgQgLip7HvLGtv73B6yAkZiRCSgvy,El Paso,United States,Dollar,52,NYSE,Texas,829,PER
+YTEN,NASDAQ,1DGGLqMkXgRpJ5KkaGrwVZDpbD623isZxD,Los Angeles,United States,Dollar,18,NASDAQ,California,830,CTHR
+PRPH,NASDAQ,1CRfiHyNjLaXzpvfDNQ3nge9ask6Kh8w2J,Miami,United States,Dollar,92,NASDAQ,Florida,831,ACXM
+AC,NYSE,1441ye6mpe8o95E6LBZPAaSBaA6wKWzKQR,Trenton,United States,Dollar,18,NYSE,New Jersey,832,AXON          
+ATTU,NASDAQ,18xhNiLV9jnpKZZtPsvD3Z1EMv3RLZfoMf,Hyattsville,United States,Dollar,68,NASDAQ,Maryland,833,EMIF
+SIR,NASDAQ,17zscU7p2d11PQewrQhWUwV5cnHdUDFEKd,Winter Haven,United States,Dollar,82,NASDAQ,Florida,834,WATT
+LVNTB,NASDAQ,1DMq21DNDp54mLJkdULqxAULnvrZafGqXw,El Paso,United States,Dollar,10,NYSE,Texas,835,AMG
+RELY,NASDAQ,1BFfnqr2fMcKgygRyMNMpCw1HVNuAEJFrN,Houston,United States,Dollar,64,NASDAQ,Texas,836,ROSEU
+CUBN,NASDAQ,1cXshkduXTr7ZVABhVEuih4XFhCdaaJAL,Anchorage,United States,Dollar,27,NYSE,Alaska,837,TOT
+WBMD,NASDAQ,1PHNLgTxksbkhikKq4DsQoczvYX1xnnA33,Cincinnati,United States,Dollar,92,NASDAQ,Ohio,838,TBNK
+SU,NYSE,14Er3zbyzL8Srwfu7xcCJgzCQZj625tBUG,Atlanta,United States,Dollar,89,NASDAQ,Georgia,839,PSTI
+DTJ,NYSE,1JsuLRKJmVtV4MgsJ4uxFnJiH217wZiLL5,Omaha,United States,Dollar,53,NASDAQ,Nebraska,840,PBIB
+BRSS,NYSE,12iyqXGjPNeHTeoarHekVmM3o29sd4QvmH,Buffalo,United States,Dollar,100,NASDAQ,New York,841,REXX
+KN,NYSE,18DyPmJ3PfDu73ncZ2m24XHPZFCo6XnZfW,Richmond,United States,Dollar,49,NYSE,Virginia,842,K
+ISSC,NASDAQ,1J7BKAU6aGuPTbVqF262PgX6KVJQck26wC,Charlotte,United States,Dollar,95,NASDAQ,North Carolina,843,PPSI
+JKHY,NASDAQ,1NiGApNDTV9PSjcAiBHei2LpN6HeRGD9Tq,Ashburn,United States,Dollar,34,NASDAQ,Virginia,844,LAKE
+BBP,NASDAQ,15tFdzAJnW8fmB4cERfRBuoiTVKeocFkwM,Atlanta,United States,Dollar,56,NASDAQ,Georgia,845,FELE
+STAR^D,NYSE,1MdZPHbZqrDJu3QEXp2iCrGWBHpRvMxd2Q,Houston,United States,Dollar,19,NYSE,Texas,846,AGCO
+PSA^S,NYSE,1KTtckYzDCtwVufUJyDkRHs6f3iMZYPQaq,Denton,United States,Dollar,50,NYSE,Texas,847,SAR
+AAV,NYSE,1DLjW6MAzBn7ktGVR2Bxi7QVYpYSU6L1d7,Seattle,United States,Dollar,97,NYSE,Washington,848,CUBI^F
+MARPS,NASDAQ,19tR2CrMWYZtc5rrkFwFf6zM58tBPfmdJo,West Palm Beach,United States,Dollar,6,NASDAQ,Florida,849,IPCI
+BLFS,NASDAQ,1CYjoG3SiVdYbQch4cPPK63yHTYqoTgHRq,Austin,United States,Dollar,53,NYSE,Texas,850,MSA
+UFI,NYSE,1KWbjiasAzsXd5wvqpP3qu5e5Xxm7TVWQ5,Lexington,United States,Dollar,29,NYSE,Kentucky,851,PIR
+CINF,NASDAQ,15bqwnrco99dZM17Fjb9m8Lyemue9sp7zG,Tulsa,United States,Dollar,41,NASDAQ,Oklahoma,852,SIVBO
+PTCT,NASDAQ,1FDc4kMrTPrE8AY7N6CsvLF1VGMtYN3LyZ,Amarillo,United States,Dollar,68,NYSE,Texas,853,UFS
+ICPT,NASDAQ,1FP6Z5cdGcKuAVByCyusiHDZHeB8qw1j9d,London,United States,Dollar,1,NYSE,Kentucky,854,CAL
+FCSC,NASDAQ,12V7G6thi6PF7RVwT8rTNNUa7zojHH6GiD,Philadelphia,United States,Dollar,92,NASDAQ,Pennsylvania,855,FSZ
+WDFC,NASDAQ,1MWzJbdDHKQE6gDwSKo39ZQfeT6aH75n4F,Whittier,United States,Dollar,86,NYSE,California,856,IBN
+HOLI,NASDAQ,1DbBiniKPBRt9NSfVyKVJjqFvq3DUGTUEA,Baton Rouge,United States,Dollar,60,NASDAQ,Louisiana,857,PLXS
+UCTT,NASDAQ,138uSZ7VQtt51BXsxRf4aURirofvNoWHY3,Indianapolis,United States,Dollar,76,NYSE,Indiana,858,GMS
+VSH,NYSE,17rpds5ccHbuhf2ZsbDTccNgMG9qeiRDkC,Oklahoma City,United States,Dollar,43,NASDAQ,Oklahoma,859,CROX
+STLR,NASDAQ,17j5xZE8fSuCfe3zTg4riYTQifeZkbe2fR,Corona,United States,Dollar,90,NASDAQ,California,860,TANNI
+NOVT,NASDAQ,1NajwMfFhF3WwjMThn2q2E82gz7m9YYeVR,Whittier,United States,Dollar,1,NYSE,California,861,FRC^D
+SOFO,NASDAQ,1HZEkYs4b68VtRuGvEjKepLocxNSAi9Adz,Detroit,United States,Dollar,19,NASDAQ,Michigan,862,VSAR
+SREV,NASDAQ,1F9sUK9i4hap6fSSzyPFdyHA84ZL1mwu3n,Albany,United States,Dollar,28,NASDAQ,New York,863,LDRI
+KBR,NYSE,1LGHzFuqeuU8VpRtk2377735pw2JhoBhQf,Portland,United States,Dollar,56,NASDAQ,Oregon,864,PRGX
+CHDN,NASDAQ,1KfgYS6wyvEjZ9ELUjM1RmyeUitG6qcfnW,West Hartford,United States,Dollar,70,NYSE,Connecticut,865,PCI
+HII,NYSE,15PV2rM8AvzZxfff9e3K7vgEyWy44xQf4A,Albany,United States,Dollar,54,NYSE,New York,866,EFF
+LBRDK,NASDAQ,19oZRVNrvEaYX79434ixHbSyxf1hACntnH,Raleigh,United States,Dollar,19,NYSE,North Carolina,867,TNK
+MGF,NYSE,1Lm5MJ6PcCoJqa883SwhKD3T3pjUhrBzQN,Colorado Springs,United States,Dollar,20,NYSE,Colorado,868,AIC
+LE,NASDAQ,1Ph8D4mhfgm83zmB8oydX7n93Y2vt3seFr,Denver,United States,Dollar,4,NYSE,Colorado,869,CI
+DELTW,NASDAQ,13Lc31VqQkRJSHkrasApqn65yo8CrWtnUf,Cincinnati,United States,Dollar,97,NYSE,Ohio,870,CIE
+WHLRW,NASDAQ,1QJsYcF8VwG6V4Sh3RS4a3MxgAV1Nu1VEM,Pompano Beach,United States,Dollar,65,NYSE,Florida,871,NSH
+DAR,NYSE,1AzVm1cq8GfYmMfPCCat79v1hrWrv5e1AT,Naples,United States,Dollar,1,NASDAQ,Florida,872,AKTX
+ABBV,NYSE,1ZPnQCkD4cXpP7S8GJ5mXADaBrqFSjpsD,Jacksonville,United States,Dollar,19,NASDAQ,Florida,873,ULH
+SWZ,NYSE,1Cbu5fFCUEnTEyPwQahXjEd5JNYAfT9D4N,Honolulu,United States,Dollar,39,NASDAQ,Hawaii,874,TTWO
+FOLD,NASDAQ,1AN6qHmn8LpW7kBWNw4T7CeAEkCRZDeMyQ,Washington,United States,Dollar,84,NYSE,District of Columbia,875,MSA
+ASYS,NASDAQ,196Xf13RqvNLqKCxHUqzURxX8d1NpuYfLh,Tucson,United States,Dollar,26,NASDAQ,Arizona,876,HIMX
+BPMC,NASDAQ,1PsY56YXXm2kMBDAbDpcueiPb3dQ8HoDyi,Cincinnati,United States,Dollar,92,NASDAQ,Ohio,877,CUBN
+NVCN,NASDAQ,1CWXB1KjdgJ5w67zBGtAmnjyHSufcZC7qD,Waltham,United States,Dollar,84,NYSE,Massachusetts,878,GEL
+CMFN,NASDAQ,15srP6wE2hTSnzeiN7bfqXriAX5S6J7hDe,Oklahoma City,United States,Dollar,6,NYSE,Oklahoma,879,SWK
+WSTC,NASDAQ,1LccC3m24j5VZrsPu5bVkxDWBwngbmDXmm,Saint Paul,United States,Dollar,28,NASDAQ,Minnesota,880,VTWV
+TWO^A,NYSE,14B4g3gWDVKGQJyztpvZTGb4hNAWVVvzsG,Norfolk,United States,Dollar,46,NASDAQ,Virginia,881,SYNA
+DXPE,NASDAQ,1E35Mx1dKXqK97hxpQGd3ecv8wZRkgYaVP,Ann Arbor,United States,Dollar,32,NYSE,Michigan,882,MHN
+MGA,NYSE,1D9UjdVpQzN4YR7mcgidjRZh6hi51NZeVn,Springfield,United States,Dollar,58,NYSE,Illinois,883,RIG
+RSO^A,NYSE,1JsJ5Uw6zoYikeckvCZwbELf64oZRGo4Zw,Atlanta,United States,Dollar,87,NYSE,Georgia,884,AVH
+UNP,NYSE,1M637qBhLT9MneBLxkPnYeQxuJfjdFDX3t,Washington,United States,Dollar,24,NYSE,District of Columbia,885,PYN
+FCB,NYSE,1BHrfYrpfYewEQQY2EmQsP2LW6qaVDyJxa,Indianapolis,United States,Dollar,12,NASDAQ,Indiana,886,PUB
+OSUR,NASDAQ,1DEPZDHNwiYFrC9yMadoW6hq8Zs18X8GNm,Washington,United States,Dollar,41,NASDAQ,District of Columbia,887,AHPAU
+MBRX,NASDAQ,16Tmn4ruqZK3ZUnpzRSJH2oLrHf1bvcSDT,Lancaster,United States,Dollar,32,NYSE,Pennsylvania,888,APO^A
+ABTX,NASDAQ,17SEUw9eyhiNNxjPt1TSiVwxQg2qCj4ETd,Rochester,United States,Dollar,61,NYSE,New York,889,WSR
+KBWY,NASDAQ,1MdEx3spWhwFT63tAjh9yfnsqWo2Y8EYJo,Philadelphia,United States,Dollar,94,NYSE,Pennsylvania,890,STZ.B
+IPHI,NYSE,14YPWjBs3s6ihyLJjhCoDEnEhHH9W5on4h,Portsmouth,United States,Dollar,80,NYSE,New Hampshire,891,TRNO
+MUJ,NYSE,1KdbfpxiYUjhuLiarPQzyKEPvFAQexwD22,Laurel,United States,Dollar,83,NASDAQ,Maryland,892,CUNB
+PII,NYSE,1V44kxZ9sD8FQeegv6WBYjQ5LaJEXxzHi,Charleston,United States,Dollar,55,NYSE,South Carolina,893,EPR^E
+SAFM,NASDAQ,1PzE36EtH9WNP27RoBxnkDQXa4cad21cA9,Charleston,United States,Dollar,32,NYSE,South Carolina,894,KKR
+BFS^C,NYSE,1H8oehfWBhnRUE5AZuNajhRGMT3BbCKK4F,Boise,United States,Dollar,67,NASDAQ,Idaho,895,NHLDW
+TSLF,NYSE,12biRHYxD7pipWUNGjCCEw9eaduxcEcz7H,Miami,United States,Dollar,33,NYSE,Florida,896,XNY
+LAD,NYSE,15VU3Ez4Cy5N1MUECfDqDMTBpQXxoQZwBj,Miami Beach,United States,Dollar,76,NASDAQ,Florida,897,ABTX
+TSQ,NYSE,1GG9htHuwiLxdoAcLh2MZ9k9TXjfggf8wh,Houston,United States,Dollar,93,NYSE,Texas,898,LB
+FLR,NYSE,19pYK5Mi6afzNxoXBdT1gYSqmNzg5WMpC,Orlando,United States,Dollar,83,NYSE,Florida,899,AGN
+DFS^B,NYSE,1KjLi4mpxSReUThMBE59dw2CsJqFxhjVfs,Houston,United States,Dollar,64,NYSE,Texas,900,HIFR
+ANW,NYSE,17SQbkicDb8UzGPBZMsEwcHC6vE525uYkV,New Orleans,United States,Dollar,46,NYSE,Louisiana,901,BURL
+SELF,NASDAQ,1KHsmis4wQn8LeLSD6RKiEhXPuRVAeRQeX,New Orleans,United States,Dollar,94,NASDAQ,Louisiana,902,FTXR
+NLY^A,NYSE,15YzbfeWKVv4XNbpBciboExiS9RZ6VYUyF,New York City,United States,Dollar,98,NASDAQ,New York,903,GNRX
+TILE,NASDAQ,1LikjqmddzumFGqCji877QeryBaqJa5msP,Lynchburg,United States,Dollar,38,NASDAQ,Virginia,904,HCOM
+UG,NASDAQ,16CrhSMMqaTnih1W3EZDmCutoE2kmnEvBR,Amarillo,United States,Dollar,38,NYSE,Texas,905,TEVA
+WFC^P,NYSE,1BVmjEvC4hsFNW8DQYQwCjiPQLrXzGPPwT,Savannah,United States,Dollar,70,NASDAQ,Georgia,906,LKOR
+HCSG,NASDAQ,1HwUhAv4cmmcYRTggwRdJnVEsnv6JZfSqZ,Denver,United States,Dollar,44,NYSE,Colorado,907,OII
+SRCL,NASDAQ,13yKFBdiXDu7YQ9TsBLNT2ccXgY79eYb8B,Miami,United States,Dollar,65,NASDAQ,Florida,908,ADI
+NRT,NYSE,1KeFBwnF9LAzDJnd9DywC7fXaY6wDPZBg3,Huntington,United States,Dollar,6,NYSE,West Virginia,909,NS^B
+TRCH,NASDAQ,1LAVKyT5oJWr6R8Pq4hPtX3mCi5oqRqaJ7,Chicago,United States,Dollar,89,NYSE,Illinois,910,HSY
+FDEF,NASDAQ,1FtFXgVMf5iqexU6bGMNckKK5pWKJMtzjZ,Wichita,United States,Dollar,47,NYSE,Kansas,911,FBHS
+DGI,NYSE,1AUtFNqGtVaZHDZs1qr2xQ43JuqiMDpqbY,Oakland,United States,Dollar,86,NYSE,California,912,DCT
+SYY,NYSE,1Dmnxj2ehrZQGhmXVz2StQbY61MqzwAhcM,Atlanta,United States,Dollar,25,NYSE,Georgia,913,AMH^D
+CYRN,NASDAQ,1LdYw68hhDHH3EbpYL5Fts1zJk7HM9br3o,Santa Barbara,United States,Dollar,87,NASDAQ,California,914,EFAS
+ZBRA,NASDAQ,1zjWUeNyE3E51mAiLf2jgzWRs6YuPZXgn,Staten Island,United States,Dollar,79,NYSE,New York,915,SMFG
+OPXA,NASDAQ,1M989M4errRGMKtANRPfDFJuLZJmo5E5vm,Lubbock,United States,Dollar,2,NASDAQ,Texas,916,IAC
+CALM,NASDAQ,1AfC3kf9Xp4C6zmBLyynKHP8eEY9Jt5e4P,Arlington,United States,Dollar,73,NASDAQ,Virginia,917,WLTW
+BW,NYSE,12sAV6tfb3pGEuQ4a9THMHCrATctCjpmvi,Newark,United States,Dollar,68,NASDAQ,Delaware,918,ASCMA
+AFSI^B,NYSE,1HU6aatGydcXpXoSxX6H5VweyLPuJgJdkV,Hyattsville,United States,Dollar,26,NYSE,Maryland,919,RLI
+NTWK,NASDAQ,12SKQfm5gWLfbsuVi4ExERLT2sgv3iNzHm,Birmingham,United States,Dollar,29,NYSE,Alabama,920,MODN
+GLOB,NYSE,194CUZP9TLvyeJA39sLz9WxSBkdcaA31no,Topeka,United States,Dollar,80,NYSE,Kansas,921,BWG
+PCAR,NASDAQ,1PG12gy4WmakBiJvSEqkE51CQxPoWSGemy,Orlando,United States,Dollar,21,NYSE,Florida,922,PRE^I
+AAOI,NASDAQ,17CgfS94RSAnpTocRfLxmVCdAPi1LCvUzD,Wichita,United States,Dollar,95,NYSE,Kansas,923,ALV
+ROSEU,NASDAQ,1HJ3QB64u5nSrvMS4NXpE4BXkRWf9eHw25,Sioux Falls,United States,Dollar,98,NYSE,South Dakota,924,TMO
+CFA,NASDAQ,1GJFDBd3RVUjyyPiV9qY4YQfooKcnxLZzi,Boulder,United States,Dollar,38,NASDAQ,Colorado,925,ALLT
+LKFN,NASDAQ,1NtLqcAaENbvmo7oY7zNWpDgGW62ZZqLyG,Los Angeles,United States,Dollar,65,NASDAQ,California,926,EFOI
+CXH,NYSE,14rFWZSsZnphjR6wEd8NYtULvRjnDzNXcB,New Orleans,United States,Dollar,31,NYSE,Louisiana,927,FPO
+CKH,NYSE,1NBBhgd7f7HX2yGGdrmZPrEVJULakk77KD,Denver,United States,Dollar,56,NASDAQ,Colorado,928,ACRS
+RGS,NYSE,18bxDyLq9sEUJD43P6Lp68RsM5yjjMKVq8,Naperville,United States,Dollar,78,NYSE,Illinois,929,BKHU
+HSIC,NASDAQ,19eNuN5mDyn3tvinzY9p8G9S5v7oV8QTJ6,Dallas,United States,Dollar,46,NASDAQ,Texas,930,FKLYU
+ORA,NYSE,16TZigoTsUJ4tBXVhonRcaaUd84WBCveHV,Atlanta,United States,Dollar,51,NASDAQ,Georgia,931,WIX
+RCI,NYSE,13NVhGp6gCcK899vhdzkQ248VmeTXgvAdh,Alpharetta,United States,Dollar,42,NYSE,Georgia,932,BMA
+MCHP,NASDAQ,1JpPK2TGzYYmN1WEhGZUVCZxVx2zFzmk16,Washington,United States,Dollar,63,NASDAQ,District of Columbia,933,HTGM
+DOV,NYSE,1HqszuKzg1RqeQY1awjErSJMgpZfSJXvZS,Miami,United States,Dollar,88,NASDAQ,Florida,934,ASRV
+HCLP,NYSE,1CcnbbxczcETy8i9fLQY629Sdfc5fowMU7,Los Angeles,United States,Dollar,55,NASDAQ,California,935,YECO
+EDN,NYSE,13QzNBxkBPkCk1PJTbN3BtGxWeA9LRcg9Q,Washington,United States,Dollar,21,NYSE,District of Columbia,936,CARS
+CECO,NASDAQ,1Ccx3jXTCb2mVhVibWjvTe512fJioGXZ3Z,Minneapolis,United States,Dollar,34,NASDAQ,Minnesota,937,EXAC
+LLY,NYSE,1nLuucz7o5smzA1jdmGqCZGa3hgAiYukA,Los Angeles,United States,Dollar,7,NASDAQ,California,938,CPTAL
+RECN,NASDAQ,1PyS23X8DdGkjBzhDbjQKSobwVNaSWMVGV,Vero Beach,United States,Dollar,52,NYSE,Florida,939,PEI^A
+SNGX,NASDAQ,1DniSYiDnK9tw4zmTQUNX8ZtjhYhgKJ8fr,Cleveland,United States,Dollar,2,NYSE,Ohio,940,MAC
+MODN,NYSE,18RgS494xHTLbhS9NhYD7vXp6NtKE7MeAA,Kansas City,United States,Dollar,50,NYSE,Missouri,941,HE^U
+CMRE^C,NYSE,176Kjv5pXK4QLkYBZTaBotew49Eu43gEim,Mesa,United States,Dollar,35,NYSE,Arizona,942,JDD
+SWP,NYSE,19pdBsM8tCiCpK2jYMvvWuY7dzQn9jbhNs,Berkeley,United States,Dollar,51,NASDAQ,California,943,PDVW
+SPWH,NASDAQ,17SrBQ1PFUY9vTTVT2inM9z7eGrpbxrHFd,Riverside,United States,Dollar,97,NASDAQ,California,944,TAX
+VTRB,NYSE,15u2Gbxe92ieRidmc6SqkinLKPQN9T1wfs,Fort Lauderdale,United States,Dollar,31,NYSE,Florida,945,DCUC
+PRU,NYSE,1KSeYwbo4faRTUtKg5a2vEN4B1qhgAiaGk,Newport News,United States,Dollar,41,NASDAQ,Virginia,946,CPRX
+ALEX,NYSE,1LNtRpoqTiYSK3VZVeimhuvN1tgYcuCvuL,Edmond,United States,Dollar,80,NASDAQ,Oklahoma,947,RCMT
+GFNCP,NASDAQ,1DDRYokbMXoKpQKFhm1tEj9GP7BMUomXY2,Philadelphia,United States,Dollar,58,NYSE,Pennsylvania,948,TWI
+RIV,NYSE,1Kn6JrnBFvyyz1TCQ4dvz1hdzSvWdLiDkL,Huntington,United States,Dollar,8,NASDAQ,West Virginia,949,BATRK
+FTAG,NASDAQ,1N3bKaRDiV6vv1VW9ZdVNVuEouuBVvJgpU,Concord,United States,Dollar,72,NASDAQ,California,950,HYND
+AWR,NYSE,1gh4EtpjhNBo6TK4sMDPTauzA8cEmj7W2,Topeka,United States,Dollar,92,NYSE,Kansas,951,PNTA.CL
+AXTA,NYSE,1aPRoVd1yHxAGCtc7PH5ibUEhJ81ttxLq,Washington,United States,Dollar,63,NASDAQ,District of Columbia,952,NBRV
+MOBL,NASDAQ,1DV3SAwNeULSVr7oxqQThmdWGs4BbgW8cf,Houston,United States,Dollar,12,NASDAQ,Texas,953,ADMS
+AMSF,NASDAQ,17SuukvaHkwR7s7CAqaGDBDhqyQdpXZNsG,North Little Rock,United States,Dollar,35,NASDAQ,Arkansas,954,SGRP
+CHH,NYSE,17Buvg59umE25Ej1r9CsQcuXN3QUYdS3ns,Newark,United States,Dollar,29,NYSE,New Jersey,955,EURN
+AVDL,NASDAQ,161DMHEVW3aTjm8t4wThk9wWDVxesE8VJW,Harrisburg,United States,Dollar,6,NASDAQ,Pennsylvania,956,GENC
+NAII,NASDAQ,1QA2wNVLjfsmRDH287gkQKqBTP1Jw239bj,Amarillo,United States,Dollar,33,NASDAQ,Texas,957,FFHL
+LNC,NYSE,1PUfQMpiF61uipzymFmrWzPUqjRcmUx28S,Lincoln,United States,Dollar,75,NYSE,Nebraska,958,ABR^C
+SFL,NYSE,15zeJeM71nmXxqnfDPb3bedhsQPaCXejrS,Charlotte,United States,Dollar,79,NASDAQ,North Carolina,959,LGCYP
+SB,NYSE,1PLzmbS4HbUxP7CHfYpvJLqD2nmFa3U4wc,Austin,United States,Dollar,35,NASDAQ,Texas,960,PTNR
+FIG,NYSE,1GzjxqyTWrYoynn4XysRDSYhsMdWQ6un9d,Fort Pierce,United States,Dollar,69,NASDAQ,Florida,961,INFI
+DAR,NYSE,14i1FktF62C2H4jJtv9TJwErbYTGLfk3Bq,Mobile,United States,Dollar,52,NYSE,Alabama,962,TSM
+CORE,NASDAQ,1NCCQQVR81rAAHjietFZ3RMrmt3poR8oWX,Memphis,United States,Dollar,2,NASDAQ,Tennessee,963,ADES
+ZYME,NYSE,1LhkrLYDqV8M3kxQ46tzVDgY5hCGXAUhq4,Carol Stream,United States,Dollar,34,NYSE,Illinois,964,ELS^C
+SQQQ,NASDAQ,1G4s6G9ohT553vvhrZQsSvPGP1PCtXHVLk,White Plains,United States,Dollar,64,NYSE,New York,965,DCT
+CLNE,NASDAQ,12j25jAFjG2vRW3FWH3TbjPqG5gkTrfK3o,Charlotte,United States,Dollar,98,NASDAQ,North Carolina,966,UVSP
+MTRX,NASDAQ,12AB77JXqSuA6Bdt672gu1av6HgQnVCef3,Portland,United States,Dollar,95,NYSE,Oregon,967,GGZ
+PERY,NASDAQ,1DvfDwpky7F2eQFvt8RkQpztFMCWXGxb5U,Houston,United States,Dollar,4,NYSE,Texas,968,RZA
+FRA,NYSE,1Lj5rW7FADZaspCgmE14Mm6YP4HjxETGVq,Cincinnati,United States,Dollar,98,NASDAQ,Ohio,969,INCR
+VTHR,NASDAQ,16C7cdrjAt6K3veVv5B9wvV38GznnChzV4,Bronx,United States,Dollar,85,NASDAQ,New York,970,IROQ
+CRAY,NASDAQ,1BuSySbPwAeKgeCAdmHorJRDTHmtudqWRG,Tampa,United States,Dollar,40,NYSE,Florida,971,PCQ
+REX,NYSE,1EoSXnqsxKKNdWCebYmknRkSKjkHFsvG1X,Bellevue,United States,Dollar,16,NYSE,Washington,972,ARCO
+VSAT,NASDAQ,16QvVzMjYdJ36ou6d9EJX4VyLUvadkEi3S,Roanoke,United States,Dollar,57,NASDAQ,Virginia,973,TRS
+SGMA,NASDAQ,185A7VfDZPbwmbej5NhjnYgwaGGXUEuMQ2,West Palm Beach,United States,Dollar,96,NYSE,Florida,974,HES^A
+PFGC,NYSE,1Pxqq4twsUSHMTgJpCiyi2o4GA5DQSdsZ2,Baton Rouge,United States,Dollar,70,NASDAQ,Louisiana,975,SFST
+CFBK,NASDAQ,1GL3emKB46WhZENy8vAF1s6d2Ap32gTBi6,Racine,United States,Dollar,30,NYSE,Wisconsin,976,FCF
+ESBK,NASDAQ,1GmVSKXkxte4kEgUsfjNMwZrWyHuZfbR7h,Wichita,United States,Dollar,55,NYSE,Kansas,977,TAP
+RIGL,NASDAQ,142AFScN4rhoviwR5AohV3BdWNmBtsyEY5,Paterson,United States,Dollar,24,NYSE,New Jersey,978,WFC^N
+GNMX,NASDAQ,15XCEMz5V5XV1rRKLa7wgH6KeUJZCMQMx3,Miami,United States,Dollar,54,NYSE,Florida,979,MMD
+ASMB,NASDAQ,12v6LBvEYLjupCbTVy1nGbCoJjjmoB7yvm,Raleigh,United States,Dollar,79,NASDAQ,North Carolina,980,LSXMA
+SILC,NASDAQ,1DCHgGWv5LrRTiKaxwSzwfRpkubmRoRzCL,Albany,United States,Dollar,85,NASDAQ,New York,981,MLAB
+DS^B,NYSE,1KFUVnkmKpCGjihRpEfSrecbzNb2ZL1oLp,Washington,United States,Dollar,43,NYSE,District of Columbia,982,UNH
+SSTK,NYSE,13ikmGEnevu91WjRxxi2N1XMYM7o838wEo,Syracuse,United States,Dollar,80,NASDAQ,New York,983,PTLA
+NPO,NYSE,1KZJUeGvZ9vGkwceqzCaJrpNakzaugfmgk,Boise,United States,Dollar,69,NASDAQ,Idaho,984,LILA
+CPSH,NASDAQ,1CeWsDNMC21sxNhmHxrVYCwVSS3VyQzEgS,Pomona,United States,Dollar,71,NASDAQ,California,985,JXSB
+RELY,NASDAQ,19j4JSbKUXqpV2YgegbgENz9KfswWJtbT5,San Diego,United States,Dollar,4,NYSE,California,986,ACV
+HT,NYSE,18Xn6nfG9h8RTrYAhaYVe3LUoWZ9MvvVBY,Richmond,United States,Dollar,36,NASDAQ,Virginia,987,DLTH
+BHE,NYSE,13i7DJZ3fBuzs9d8eWGhfXd2Fzx928UtoP,Chicago,United States,Dollar,76,NYSE,Illinois,988,SMFG
+NTGR,NASDAQ,18xzVUGnyFtXJY8RpwPbtzH2ShsXTJnUN7,Seattle,United States,Dollar,97,NASDAQ,Washington,989,DNBF
+ROSEU,NASDAQ,18YLeogD37F4uX5LLNtQMZRdjSuyXL6C9V,Sacramento,United States,Dollar,54,NYSE,California,990,PRGO
+FPAY,NASDAQ,1P8sxRCxaE4RD6f9TajHrTHZBBdnivFDz5,Salt Lake City,United States,Dollar,96,NASDAQ,Utah,991,BWEN
+CC,NYSE,1F6y73Vu9L7K4rYAtSAGCC1eUpk9XY33Jn,Montgomery,United States,Dollar,68,NASDAQ,Alabama,992,HYXE
+SYPR,NASDAQ,1LUiQwBAf9Re5UMv8ktG8BEstrqjp1b19F,Charlotte,United States,Dollar,80,NYSE,North Carolina,993,MCS
+PGZ,NYSE,1J2mHKAJJFpaHBVZLcNfXkMfhLJzWmYjEb,Albany,United States,Dollar,47,NASDAQ,New York,994,ASNA
+RBS,NYSE,1JmD12tJ78sMvTeeXGNC42p1JHD5wrrfs3,Baton Rouge,United States,Dollar,61,NYSE,Louisiana,995,FEO
+SNHNI,NASDAQ,185Tu6y2BX85TNFkrT5AEAJfVad2kNgA2,Gainesville,United States,Dollar,9,NYSE,Florida,996,SPA
+ACLS,NASDAQ,1J2gsoj3rtjuZhE2dqw9Urp1kM4M43CSr8,El Paso,United States,Dollar,100,NYSE,Texas,997,CAJ
+PRSC,NASDAQ,15LbNwdFADGADhCg2ddum361TN52cU2wao,New York City,United States,Dollar,68,NASDAQ,New York,998,TTEK
+UGP,NYSE,1TR9WAPYuFdcQJAqtSG8aurr4udvjHDGc,Seattle,United States,Dollar,18,NYSE,Washington,999,AWF
+TLT,NASDAQ,1JEp9y1zyUkqEUSwZ5canT1sQwXFybFYV4,Houston,United States,Dollar,10,NYSE,Texas,1000,CHA
